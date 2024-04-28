@@ -1,10 +1,32 @@
+### Day 2: Apr 28, 2024
+
+# Day 2 of My 100 Days of Code: Venturing into AI with JavaScript
+
+## Introduction
+
+Diving into "AI Programming for JavaScript Developers" on LinkedIn Learning.
+
+## Today's Progress
+
+I began by exploring AI in the JavaScript ecosystem, understanding how JavaScript developers can leverage AI technologies. I set up my development environment, installed the OpenAI library.
+
+## Thoughts
+
+The setup went smoothly. Tomorrow, I'll add my API key and begin interacting with AI models directly from my code.
+
+## Hashtags
+
+#100DaysOfCode #AIProgramming #JavaScript #OpenAI #LinkedInLearning #WebDevelopment #CodingChallenge
+
+<hr style="border-width: 3px;">
+
 ### Day 1: Apr 27, 2024
 
 # Day 1 of My 100 Days of Code: Kicking Off with Vue.js, Axios, and GitHub Pages!
 
 ## Introduction
 
-Today marks the first day of my 100 Days of Code challenge! I'm excited to sharpen my skills in web development, particularly focusing on Vue.js, Axios for API handling, and deploying on GitHub Pages. My journey began when a friend needed help with his computer science homework, sparking my interest in how Axios could be integrated with Vue to create powerful web applications.
+Today marks the first day of my 100 Days of Code challenge! I'm excited to sharpen my skills in web development. With this project I focused on Vue.js, Axios for API handling, and deployed to GitHub Pages. My journey began when a friend needing help with his computer science homework, and wanted to introduce him to peer programming.
 
 ## Today's Progress
 
@@ -16,11 +38,9 @@ Working through the initial configurations and integrations posed a good challen
 
 ## Link to Work
 
-I've documented my journey and updates in a GitHub repo, which will be refreshed daily as I progress through this challenge. Check out my project here: [GitHub Link](https://github.com/yourusername/yourrepositoryname)
+Repo: [https://github.com/Jason-Hargrove/vue-axios-app.git](https://github.com/Jason-Hargrove/vue-axios-app.git)
 
-## Visuals
-
-![Screenshot of the application](/path/to/image.jpg) <!-- Replace with the path to your screenshot image -->
+Visit site: [https://jason-hargrove.github.io/vue-axios-app/](https://jason-hargrove.github.io/vue-axios-app/)
 
 ## Hashtags
 
