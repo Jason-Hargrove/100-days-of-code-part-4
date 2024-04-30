@@ -1,3 +1,27 @@
+### Day 4: Apr 30, 2024
+
+# Day 4 of My 100 Days of Code: Venturing into AI with JavaScript
+
+## Today's Progress
+
+Incorporating external APIs, allowing my application to interact dynamically with other services. I implemented a feature using 'readline' to accept user inputs, which has made the interaction more engaging.
+
+One of the highlights of today was creating a function that generates descriptions for images based on their URLs — a fantastic way to merge vision and language models. Additionally, I ventured into audio by recording an MP3 file and successfully transcribing the audio using OpenAI's capabilities through a curl request, demonstrating the versatility of AI in handling various media types.
+
+## Thoughts
+
+Today seemed pretty easy, but long. The ability to transcribe audio and describe images has opened up new possibilities for feature development in my project.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git](https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 3: Apr 29, 2024
 
 # Day 3 of My 100 Days of Code: Venturing into AI with JavaScript
