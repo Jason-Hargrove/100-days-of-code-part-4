@@ -1,3 +1,31 @@
+### Day 3: Apr 29, 2024
+
+# Day 3 of My 100 Days of Code: Venturing into AI with JavaScript
+
+## Today's Progress
+
+I started by generating an API key and setting up a language model to begin crafting AI-driven interactions. I wrote functions to handle AI responses and set up a GitHub repository to track my project. However, I encountered some hurdles with API key permissions and billing issues, which I managed to resolve after some troubleshooting.
+
+I experimented with streams and creating dynamic prompts, and spent some time refactoring my functions to make them cleaner and more efficient. Additionally, I set up templates and customized questions to make the AI interactions more engaging and user-specific.
+
+## Thoughts
+
+Working through the API key and billing challenges was a bit tricky.
+
+## Looking Ahead
+
+Tomorrow, I'll start incorporating external APIs into my project to enhance the functionality and responsiveness of the AI.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git](https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 2: Apr 28, 2024
 
 # Day 2 of My 100 Days of Code: Venturing into AI with JavaScript
@@ -16,7 +44,7 @@ The setup went smoothly. Tomorrow, I'll add my API key and begin interacting wit
 
 ## Hashtags
 
-#100DaysOfCode #AIProgramming #JavaScript #OpenAI #LinkedInLearning #WebDevelopment #CodingChallenge
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#LinkedInLearning \#WebDevelopment \#CodingChallenge
 
 <hr style="border-width: 3px;">
 
