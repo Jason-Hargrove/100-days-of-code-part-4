@@ -1,3 +1,27 @@
+### Day 5: May 1, 2024
+
+# Day 5 of 100 Days of Code: Using AI and Node to Transcribe Audio
+
+## Today's Progress
+
+Today was all about setting up a backend using Node.js. I installed essential packages like dotenv for managing environment variables, axios for making HTTP requests, and form-data for handling form submissions. I also created an .env file to securely store my API key, transitioning from inputting it directly in the terminal—a practice I'm accustomed to and find secure.
+
+The journey wasn’t without its hurdles; I spent a significant portion troubleshooting. At the end, I discovered a couple of bugs—one due to a misspelled variable and another from using the incorrect built-in function.
+
+## Thoughts
+
+The process of debugging and troubleshooting is often more time-consuming than writing the code itself, but it is just as crucial for the development process. Today's session reinforced the importance of attention to detail and the value of a good debugging strategy.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git](https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 4: Apr 30, 2024
 
 # Day 4 of My 100 Days of Code: Venturing into AI with JavaScript
