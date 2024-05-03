@@ -1,3 +1,25 @@
+### Day 6: May 2, 2024
+
+# Day 6 of 100 Days of Code: Using DALLI-E 3 for Image Generation
+
+## Today's Progress
+
+Integrated DALL-E 3 into my project using Axios for API requests. Used Assistants API playground.
+
+## Thoughts
+
+While the outcomes vary, the process of exploring AI's creative capabilities is consistently intriguing and enjoyable.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git](https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 5: May 1, 2024
 
 # Day 5 of 100 Days of Code: Using AI and Node to Transcribe Audio
