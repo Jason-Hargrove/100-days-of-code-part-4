@@ -1,3 +1,27 @@
+### Day 8: May 4, 2024
+
+# Day 8 of 100 Days of Code: Brushing up on Python
+
+## Today's Progress
+
+Installed latest vrsion of Python and configuring my environment. Solved conflicts in my .zshrc file due to the updated version of Python.
+
+After ensuring everything was set up correctly, I dived into a LinkedIn Learning course on Python. I cloned the course repository and successfully built a small "Hello World" app, marking my first Python project on this new setup.
+
+## Thoughts
+
+Navigating through system configurations and setting up a new programming language was challenging. It's exciting to get back int Python.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git](https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 7: May 3, 2024
 
 # Day 7 of 100 Days of Code: Building an Interactive Assistant in Node.js
