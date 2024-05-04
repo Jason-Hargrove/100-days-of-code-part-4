@@ -1,3 +1,25 @@
+### Day 7: May 3, 2024
+
+# Day 7 of 100 Days of Code: Building an Interactive Assistant in Node.js
+
+## Today's Progress
+
+Created an assistant within my Node app, added threads to capture user input, parsing the assistant response, and LangChain.
+
+## Thoughts
+
+Each step forward in this project opens up new possibilities for creating more intuitive and responsive user interactions.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git](https://github.com/Jason-Hargrove/ai-programming-for-javascript-developers.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 6: May 2, 2024
 
 # Day 6 of 100 Days of Code: Using DALLI-E 3 for Image Generation
