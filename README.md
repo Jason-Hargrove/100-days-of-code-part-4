@@ -1,3 +1,25 @@
+### Day 9: May 5, 2024
+
+# Day 9 of 100 Days of Code: Brushing up on Python
+
+## Today's Progress
+
+Set up a git repisitory. Worked with variables and data types in python. global vs. local varibles in functions.
+
+## Thoughts
+
+Kettping study time short today. Having fun with the basics. Moving on to Pythong functions tomorrow.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 8: May 4, 2024
 
 # Day 8 of 100 Days of Code: Brushing up on Python
