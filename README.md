@@ -4,7 +4,7 @@
 
 ## Today's Progress
 
-Installed latest vrsion of Python and configuring my environment. Solved conflicts in my .zshrc file due to the updated version of Python.
+Installed latest version of Python and configuring my environment. Solved conflicts in my .zshrc file due to the updated version of Python.
 
 After ensuring everything was set up correctly, I dived into a LinkedIn Learning course on Python. I cloned the course repository and successfully built a small "Hello World" app, marking my first Python project on this new setup.
 
