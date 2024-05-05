@@ -1,14 +1,16 @@
 ### Day 9: May 5, 2024
 
-# Day 9 of 100 Days of Code: Brushing up on Python
+# Day 9 of 100 Days of Code: Python Basics and Git Setup
 
 ## Today's Progress
 
-Set up a git repisitory. Worked with variables and data types in python. global vs. local varibles in functions.
+Setup a new Git repository. Python basics, working with different data types and global and local variables in functions.
+
+Although I had to cut my study time short today, I really enjoyed getting back to basics and look forward to tackling Python functions tomorrow.
 
 ## Thoughts
 
-Kettping study time short today. Having fun with the basics. Moving on to Pythong functions tomorrow.
+It's fascinating how different languages handle basics like variable scope.
 
 ## Link to Work
 
