@@ -1,3 +1,27 @@
+### Day 10: May 6, 2024
+
+# Day 10 of 100 Days of Code: Python Functions and Control Flow
+
+## Today's Progress
+
+Defining functions in Python, using them to encapsulate reusable blocks of code. Conditional logic, employing if, elif, and else statements to control the flow of my programs. The match-case statement proved invaluable for comparing multiple values easily. I also practiced loops—using while and for loops to iterate over data, incorporating break and continue to fine-tune loop execution, and utilizing the enumerate() function to access index during loops. Additionally, I began working with classes and handling exceptions to manage errors more gracefully.
+
+In today's coding challenge, I tackled creating a function to determine if a string is a palindrome, reinforcing my function writing skills and understanding of Python's string manipulation capabilities.
+
+## Thoughts
+
+Each new Python feature I learn opens up more possibilities for solving problems efficiently and creatively.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 9: May 5, 2024
 
 # Day 9 of 100 Days of Code: Python Basics and Git Setup
