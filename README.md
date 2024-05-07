@@ -1,3 +1,25 @@
+### Day 11: May 7, 2024
+
+# Day 11 of 100 Days of Code: Python Challenges and File Handling
+
+## Today's Progress
+
+Python coding challenges and quizzes to sharpen my foundational skills. Explored reading and writing files with Python.
+
+## Thoughts
+
+I haven't done coding challenges in a bit. I do enjoy the exposure to different problem-solving approaches.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 10: May 6, 2024
 
 # Day 10 of 100 Days of Code: Python Functions and Control Flow
