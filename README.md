@@ -1,3 +1,25 @@
+### Day 13: May 9, 2024
+
+# Day 13 of 100 Days of Code: Python File Handling and Directory Analysis
+
+## Today's Progress
+
+Python code challenge today: calculating total number of bytes for text files, and chapter quiz.
+
+The task involved filtering to include only .txt files and excluding all others from the byte count. Reinforced my understanding of file operations and directory traversal in Python. Additionally, I completed a chapter quiz to consolidate my learning further.
+
+## Thoughts
+
+Today’s challenge was a great mix of real-world application and theory.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
 ### Day 12: May 8, 2024
 
 # Day 12 of 100 Days of Code: File System Operations in Python
