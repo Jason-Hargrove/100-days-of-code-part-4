@@ -1,4 +1,24 @@
-### Day 11: May 7, 2024
+### Day 12: May 8, 2024
+
+# Day 12 of 100 Days of Code: File System Operations in Python
+
+## Today's Progress
+
+Python's OS module, specifically exploring its path utilities. I learned how to check for item existence and type, work with file paths, and retrieve the modification times of files. Additionally, I calculated how long ago an item was modified, which adds a practical aspect to managing file systems.
+
+## Thoughts
+
+Understanding and manipulating the file system with Python's built-in capabilities is incredibly powerful.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
 
 # Day 11 of 100 Days of Code: Python Challenges and File Handling
 
