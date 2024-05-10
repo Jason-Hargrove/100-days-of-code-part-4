@@ -1,3 +1,27 @@
+### Day 14: May 10, 2024
+
+# Day 14 of 100 Days of Code: 1
+
+## Today's Progress
+
+Handling dates and times using Python’s datetime module.
+
+I started by using the simple today() method from the date class to fetch the current date and then printed out its individual components such as year, month, and day. I also retrieved today’s weekday, understanding Python’s system where Monday is 0 and Sunday is 6. Additionally, I explored the datetime class to get not only today's date but also the current time.
+
+## Thoughts
+
+It’s incredibly useful to see how Python can manage date and time data.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 13: May 9, 2024
 
 # Day 13 of 100 Days of Code: Python File Handling and Directory Analysis
@@ -19,6 +43,8 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 ## Hashtags
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
 
 ### Day 12: May 8, 2024
 
