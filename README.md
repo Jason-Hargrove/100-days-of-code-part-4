@@ -1,16 +1,16 @@
 ### Day 15: May 11, 2024
 
-# Day 15 of 100 Days of Code: 1
+# Day 15 of 100 Days of Code: Date and Time Formatting in Python
 
 ## Today's Progress
 
-Handling dates and times using Python’s datetime module.
+Explored Python's datetime module by diving into different ways to format dates and times.
 
-1
+I utilized datetime.now() to fetch current date and time, and experimented with various formatting options to display these values in user-friendly and locale-specific formats.
 
 ## Thoughts
 
-1
+Learning to format date and time according to different locales and requirements has been interesting.
 
 ## Link to Work
 
