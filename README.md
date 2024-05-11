@@ -1,6 +1,30 @@
+### Day 15: May 11, 2024
+
+# Day 15 of 100 Days of Code: 1
+
+## Today's Progress
+
+Handling dates and times using Python’s datetime module.
+
+1
+
+## Thoughts
+
+1
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 14: May 10, 2024
 
-# Day 14 of 100 Days of Code: 1
+# Day 14 of 100 Days of Code: Exploring Date and Time in Python
 
 ## Today's Progress
 
