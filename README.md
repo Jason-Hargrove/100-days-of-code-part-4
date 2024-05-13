@@ -1,3 +1,29 @@
+### Day 17: May 13, 2024
+
+# Day 17 of 100 Days of Code: Python's Calendar Module
+
+## Today's Progress
+
+Explored the Python calendar module, for managing and displaying calendars in different formats.
+
+I started by generating plain text calendars, then moved on to creating HTML formatted calendars which can be seamlessly integrated into web applications. I also delved into looping over days of a month to understand how Python handles dates that span multiple months.
+
+Additionally, I utilized the module to find specific days, such as the first Friday of each month for scheduling recurring team meetings. This practical application of the calendar module highlighted its utility in real-world programming scenarios.
+
+## Thoughts
+
+The ability to manipulate and interact with calendar data programmatically opens up numerous possibilities for developing applications that require scheduling and date tracking.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 16: May 12, 2024
 
 # Day 16 of 100 Days of Code: Python's timedelta
