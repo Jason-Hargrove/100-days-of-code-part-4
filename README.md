@@ -1,3 +1,27 @@
+### Day 16: May 12, 2024
+
+# Day 16 of 100 Days of Code: Python's timedelta
+
+## Today's Progress
+
+Experimenting with timedelta objects.
+
+I learned how to manipulate dates and times for different practical applications, like projecting dates in the future and calculating past dates. For example, I calculated what date it would be one year from now, and what the date was exactly one week ago.
+
+## Thoughts
+
+Using timedelta to navigate through time in programming offers a fascinating perspective on how software can interact with real-world time events.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 15: May 11, 2024
 
 # Day 15 of 100 Days of Code: Date and Time Formatting in Python
