@@ -1,3 +1,51 @@
+### Day 18: May 14, 2024
+
+# Day 18 of 100 Days of Code: Python Date and Time Code Challenge and Quiz
+
+## Today's Progress
+
+Python coding challenge that involved working extensively with dates and times using the calendar module.
+
+Count the occurrences of a specific day of the week within a given month and year. I wrote a function count_days that efficiently calculates how often each day appears, such as how many Mondays are in December 2025. Additionally, I enhanced my understanding of Python’s date module by writing a script to predict tomorrow’s day of the week.
+
+Following the coding session, I completed a chapter quiz that tested my knowledge on handling dates and times in Python, reinforcing the concepts I practiced in the challenge.
+
+## Thoughts
+
+Got sidetracked a bit with some of the questions, but learned a lot.
+
+## Code
+
+```python
+import calendar
+from datetime import date
+
+def count_days(year, month, whichday):
+    # Generate the calendar for the month
+    cal = calendar.monthcalendar(year, month)
+    day_count = 0
+
+    # Count occurrences of the specific day of the week
+    for week in cal:
+        if week[whichday] != 0: # The day of the week is in this week
+            day_count += 1
+
+    return day_count
+
+print(count_days(2025, 12, 0))
+# Wxpected result: 5
+```
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 17: May 13, 2024
 
 # Day 17 of 100 Days of Code: Python's Calendar Module
