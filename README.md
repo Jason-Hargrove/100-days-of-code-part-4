@@ -1,3 +1,51 @@
+### Day 20: May 16, 2024
+
+# Day 20 of 100 Days of Code: Redeploying My Portfolio on Heroku
+
+## Today's Progress
+
+Today, I took a significant step forward by redeploying my full-stack software engineering portfolio on Heroku.
+
+## Thoughts
+
+While the deployment is up, I still need to conduct thorough testing to ensure all links and functionalities are working as expected. There's a bit of work ahead to refine and optimize the performance of the site.
+
+## Link to Work
+
+Portfoli: [https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/](https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/)
+
+## Hashtags
+
+\#100DaysOfCode \#Heroku \#JavaScript \#GitHub \#WebDevelopment
+
+<hr style="border-width: 3px;">
+
+### Day 19: May 15, 2024
+
+# Day 19 of 100 Days of Code: Python Data Handling, Parsing, and More
+
+## Today's Progress
+
+Finished "Learning Python" on LinkedIn Learning. Today I worked with internet data handling capabilities.
+
+I began by fetching data from the internet using urllib.request and explored JSON data manipulation to enhance my ability to process and interpret web data dynamically. I also tackled SSL issues, ensuring secure data transactions.
+
+Additionally, I practiced parsing and processing HTML with Python's html.parser module, gaining a better understanding of web content manipulation. I then moved on to manipulating XML, learning to parse, modify, and create XML elements which are crucial for managing structured data.
+
+## Thoughts
+
+Feels good to have this course behind me - on to the next!
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com/Jason-Hargrove/learning-python.git)
+
+## Hashtags
+
+\#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 18: May 14, 2024
 
 # Day 18 of 100 Days of Code: Python Date and Time Code Challenge and Quiz

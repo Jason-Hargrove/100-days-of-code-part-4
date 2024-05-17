@@ -1,6 +1,8 @@
 Day 17 of 100 Days of Code:
 🔧 Today's Progress:
 
+🔧 Challenges:
+
 💡 Thoughts:
 
 🔗 Link to Work
