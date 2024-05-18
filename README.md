@@ -1,3 +1,30 @@
+### Day 21: May 17, 2024
+
+# Day 21 of 100 Days of Code: Major Deployment Day on Heroku!
+
+## Today's Progress
+
+Deployed multiple applications on Heroku that are featured in my software engineering portfolio. This includes:
+
+- **Search the MET**: A full-stack MERN application that utilizes the Metropolitan Museum of Art's API to search their collection. Currently troubleshooting some functionality issues.
+- **For Goodness Cakes**: Collaborated with a cross-functional team to turn an Instagram bakery concept into a robust full-stack web application.
+- **Radioactive Sticker Store**: Deployed a full CRUD multi-page application.
+- **Accumulative Dose**: Launched a 'choose your own adventure' game built with HTML, CSS, and JavaScript.
+
+## Thoughts
+
+Encountered a few snags, particularly with the "Search the MET" application that isn't working as expected. Manual testing and debugging are on my immediate agenda to ensure all applications run smoothly and efficiently.
+
+## Link to Work
+
+Portfoli: [https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/](https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/)
+
+## Hashtags
+
+\#100DaysOfCode \#Heroku \#JavaScript \#GitHub \#WebDevelopment
+
+<hr style="border-width: 3px;">
+
 ### Day 20: May 16, 2024
 
 # Day 20 of 100 Days of Code: Redeploying My Portfolio on Heroku
