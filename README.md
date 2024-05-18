@@ -1,3 +1,29 @@
+### Day 22: May 18, 2024
+
+# Day 22 of 100 Days of Code: Portfolio Testing and Diving into Machine Learning with fast.ai
+
+## Today's Progress
+
+Tested my newly deployed portfolio and began exploring machine learning with fast.ai.
+
+Identified several bugs in my portfolio and noted key areas for improvement, particularly with the CSS. While I'll continue to refine these elements daily, I also kicked off a new learning phase with fast.ai.
+
+I set up my Kaggle account, intending to follow along with Lesson 1 of fast.ai. However, I encountered numerous errors, which proved to be a significant learning curve. Troubleshooting these will be my focus tomorrow.
+
+## Thoughts
+
+Balancing portfolio improvements with advancing my technical skills in machine learning is challenging but enriching. Each error is a step forward in understanding more about data science and its practical applications.
+
+## Link to Work
+
+Portfoli: [https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/](https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/)
+
+## Hashtags
+
+\#100DaysOfCode \#WebDevelopment \#JavaScript \#CSS \#FastAI \#MachineLearning
+
+<hr style="border-width: 3px;">
+
 ### Day 21: May 17, 2024
 
 # Day 21 of 100 Days of Code: Major Deployment Day on Heroku!
