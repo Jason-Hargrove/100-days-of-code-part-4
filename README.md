@@ -1,3 +1,23 @@
+### Day 25: May 21, 2024
+
+# Day 25 of 100 Days of Code: Deep Learning and Strategic Technology Planning
+
+## Today's Progress
+
+Continued "Practical Deep Learning for Coders: Lesson 1" from FastAI. Also created a technology radar.
+
+Using the technology radar I map out essential skills after finishing the "Recovering from a Job Loss in Technology" course on LinkedIn Learning.
+
+Additionally, I began the "Postman Essential Training" and completed the setup.
+
+## Thoughts
+
+Today was about blending continued deep learning study with strategic planning and skill acquisition. Creating the technology radar felt good; helping me focus my learning on technologies that will shape my career trajectory.
+
+## Hashtags
+
+\#100DaysOfCode \#WebDevelopment \#JavaScript \#FastAI \#MachineLearning \#Poastman
+
 ### Day 24: May 20, 2024
 
 # Day 24 of 100 Days of Code: More Deep Learning Journey with FastAI
