@@ -1,6 +1,6 @@
 ### Day 26: May 22, 2024
 
-# Day 26 of 100 Days of Code: X
+# Day 26 of 100 Days of Code: Navigating Tools and Tapping into Creativity
 
 ## Today's Progress
 
