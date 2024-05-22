@@ -1,3 +1,27 @@
+### Day 26: May 22, 2024
+
+# Day 26 of 100 Days of Code: X
+
+## Today's Progress
+
+Continued with "Postman Essential Training" on LinkedIn Learning.
+
+Encountered some setup issues with Postman, including difficulties in logging in and updating the software. Despite multiple failures, it finally updated, although another update seems needed. Managed to create a collection, organize some folders, and familiarize myself with the API I'll be using, along with exploring Postman’s UI.
+
+## Creative Side
+
+Apart from coding, I spent a significant part of the day engaging with my creative side—downloading fonts and working with Affinity Designer and Photo to design a postcard for an upcoming group art show I'm excited to participate in.
+
+## Thoughts
+
+Today mixed technical challenges with creative pursuits. While technical setups can sometimes be frustrating, they are crucial for smoother operations later on. Balancing coding with creative projects like graphic design provided a refreshing counterpoint to the day’s more tedious tasks.
+
+## Hashtags
+
+\#100DaysOfCode \#WebDevelopment \#Postman \#Art \#GraphicDesign
+
+<hr style="border-width: 3px;">
+
 ### Day 25: May 21, 2024
 
 # Day 25 of 100 Days of Code: Deep Learning and Strategic Technology Planning
@@ -17,6 +41,8 @@ Today was about blending continued deep learning study with strategic planning a
 ## Hashtags
 
 \#100DaysOfCode \#WebDevelopment \#JavaScript \#FastAI \#MachineLearning \#Poastman
+
+<hr style="border-width: 3px;">
 
 ### Day 24: May 20, 2024
 
