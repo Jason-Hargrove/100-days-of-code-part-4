@@ -4,7 +4,7 @@
 
 ## Today's Progress
 
-Focused on API interaction fundamentals. Practicing familar skills.
+Focused on API interaction fundamentals. Practicing familiar skills.
 
 Advanced through "Postman Essential Training" on LinkedIn Learning today, focusing on API interaction fundamentals. I explored how JSON Web Tokens work and practiced creating HTTP requests including GET, POST, PUT, and DELETE. These are tasks I'm well-acquainted with in my software engineering career, so today was more about refining and practicing familiar skills.
 
