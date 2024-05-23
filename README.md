@@ -1,12 +1,16 @@
 ### Day 27: May 23, 2024
 
-# Day 27 of 100 Days of Code: x
+# Day 27 of 100 Days of Code: Refining API Skills with Postman
 
 ## Today's Progress
 
-x
+Focused on API interaction fundamentals. Practicing familar skills.
+
+Advanced through "Postman Essential Training" on LinkedIn Learning today, focusing on API interaction fundamentals. I explored how JSON Web Tokens work and practiced creating HTTP requests including GET, POST, PUT, and DELETE. These are tasks I'm well-acquainted with in my software engineering career, so today was more about refining and practicing familiar skills.
 
 ## Thoughts
+
+Even routine practice is crucial for mastery. Revisiting basic concepts with a fresh perspective can often reveal new insights or reinforce critical skills. Continual practice ensures that I remain sharp and ready to tackle more complex challenges.
 
 ## Hashtags
 
