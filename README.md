@@ -1,3 +1,17 @@
+### Day 27: May 23, 2024
+
+# Day 27 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+## Hashtags
+
+\#100DaysOfCode \#WebDevelopment \#Postman
+
 ### Day 26: May 22, 2024
 
 # Day 26 of 100 Days of Code: Navigating Tools and Tapping into Creativity
