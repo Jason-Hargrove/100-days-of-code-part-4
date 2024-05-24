@@ -1,14 +1,14 @@
 ### Day 28: May 24, 2024
 
-# Day 28 of 100 Days of Code: X
+# Day 28 of 100 Days of Code: Postman's Environment Variables and Response Handling
 
 ## Today's Progress
 
-x
+Created negative API requests and utilized environment variables. Worked on saving API response data as variables and incorporated these variables into new requests. Tackled a challenge - adding variables to requests. Completed Chapter 1 quiz.
 
 ## Thoughts
 
-x
+Leveraging environment variables not only makes my requests more dynamic but also secures sensitive data, which is crucial for real-world applications.
 
 ## Hashtags
 
