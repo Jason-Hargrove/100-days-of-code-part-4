@@ -1,3 +1,21 @@
+### Day 28: May 24, 2024
+
+# Day 28 of 100 Days of Code: X
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Hashtags
+
+\#100DaysOfCode \#WebDevelopment \#Postman
+
+<hr style="border-width: 3px;">
+
 ### Day 27: May 23, 2024
 
 # Day 27 of 100 Days of Code: Refining API Skills with Postman
@@ -15,6 +33,8 @@ Even routine practice is crucial for mastery. Revisiting basic concepts with a f
 ## Hashtags
 
 \#100DaysOfCode \#WebDevelopment \#Postman
+
+<hr style="border-width: 3px;">
 
 ### Day 26: May 22, 2024
 
