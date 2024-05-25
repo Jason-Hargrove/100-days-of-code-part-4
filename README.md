@@ -1,10 +1,16 @@
 ### Day 29: May 25, 2024
 
-# Day 29 of 100 Days of Code:
+# Day 29 of 100 Days of Code: Postman Assertions
 
 ## Today's Progress
 
+Practiced various types of assertions including status, body content, headers, and response time.
+
+Additionally, I enhanced my debugging skills using the Postman console and tackled a challenge to write custom assertions. I also started exploring JSON assertions and completed a chapter quiz to test my understanding.
+
 ## Thoughts
+
+Learning to effectively use assertions in Postman is crucial for ensuring API responses meet expected outcomes.
 
 ## Hashtags
 
