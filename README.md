@@ -1,14 +1,16 @@
 ### Day 30: May 26, 2024
 
-# Day 30 of 100 Days of Code: x
+# Day 30 of 100 Days of Code: JSON Assertions and Postman Test Automation
 
 ## Today's Progress
 
-x
+I focused on JSON assertions, tackling more complex tests, including nested JSON assertions using a mock API.
+
+I completed a chapter quiz on Postman assertions and extensively used the collection runner to run my test collection. Additionally, I exported and ran my collection with Newman, followed by finishing another chapter quiz on running test collections, and resolved some deprecation issues along the way. Today marked the completion of the "Postman Essential Training" tutorial on LinkedIn Learning.
 
 ## Thoughts
 
-x
+Wrapping up the Postman tutorial has significantly boosted my skills in API testing, especially in automating and debugging with advanced assertions. Understanding how to effectively structure and automate tests using Newman and Postman's collection runner will be invaluable for maintaining robust API integrations in future projects.
 
 ## Hashtags
 
