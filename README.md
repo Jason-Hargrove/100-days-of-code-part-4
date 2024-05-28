@@ -1,3 +1,49 @@
+### Day 32: May 28, 2024
+
+# Day 32 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
+
+<hr style="border-width: 3px;">
+
+### Day 31: May 27, 2024
+
+# Day 31 of 100 Days of Code: Python Object-Oriented Programming
+
+## Today's Progress
+
+OOP. Set up my development environment, created a new repository for the project, and refreshed my knowledge on OOP concepts.
+
+Started with basic class definitions, laying the groundwork for more complex structures.
+
+## Thoughts
+
+Revisiting the foundational aspects of OOP in Python is exciting. It’s fascinating to see how organizing code into classes and objects can make it more modular, maintainable, and reusable.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
+
+<hr style="border-width: 3px;">
+
 ### Day 30: May 26, 2024
 
 # Day 30 of 100 Days of Code: JSON Assertions and Postman Test Automation
