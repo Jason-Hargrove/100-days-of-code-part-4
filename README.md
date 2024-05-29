@@ -1,22 +1,20 @@
 ### Day 32: May 28, 2024
 
-# Day 32 of 100 Days of Code: x
+# Day 32 of 100 Days of Code: Agile with LinkedIn Learning
 
 ## Today's Progress
 
-x
+Completed the "Agile Foundations" and "Scrum: Advanced" courses on LinkedIn Learning.
+
+These courses deepened my understanding of agile methodologies and advanced Scrum practices, equipping me with the knowledge to better manage projects and enhance team productivity.
 
 ## Thoughts
 
-x
-
-## Link to Work
-
-Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+Diving into Agile and Scrum has reinforced the importance of flexible project management and the value of quick adaptations to change.
 
 ## Hashtags
 
-\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
+\#100DaysOfCode \#Agile \#Scrum \#LinkedInLearning \#CareerDevelopment
 
 <hr style="border-width: 3px;">
 
