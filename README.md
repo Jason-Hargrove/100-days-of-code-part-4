@@ -1,14 +1,16 @@
-### Day 33: May 27, 2024
+### Day 33: May 29, 2024
 
-# Day 33 of 100 Days of Code: x
+# Day 33 of 100 Days of Code: Type Checking in Python OOP
 
 ## Today's Progress
 
-x
+Python OOP - focusing on checking instance types.
+
+This essential skill helps ensure that objects and variables are of expected types, crucial for debugging and maintaining robust Python applications.
 
 ## Thoughts
 
-x
+Learning how to effectively check instance types has provided me with deeper insights into Python's dynamic typing system.
 
 ## Link to Work
 
