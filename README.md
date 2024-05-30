@@ -1,3 +1,25 @@
+### Day 34: May 30, 2024
+
+# Day 33 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
+
+<hr style="border-width: 3px;">
+
 ### Day 33: May 29, 2024
 
 # Day 33 of 100 Days of Code: Type Checking in Python OOP
