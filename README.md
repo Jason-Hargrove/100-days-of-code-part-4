@@ -1,14 +1,16 @@
 ### Day 34: May 30, 2024
 
-# Day 33 of 100 Days of Code: x
+# Day 33 of 100 Days of Code: Python OOP with LinkedIn Learning
 
 ## Today's Progress
 
-x
+Explored class methods and members, as well as checking instance types.
+
+These topics are crucial for designing robust and reusable code structures in Python, enhancing both the functionality and interoperability of classes.
 
 ## Thoughts
 
-x
+Checking instance types is also integral for ensuring that the interactions between different components of a program are as expected, preventing runtime errors and improving the reliability of software.
 
 ## Link to Work
 
