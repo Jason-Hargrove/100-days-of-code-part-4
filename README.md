@@ -1,6 +1,26 @@
+### Day 35: May 31, 2024
+
+# Day 35 of 100 Days of Code: x
+
+## Today's Progress
+
+Headed to Evansville, Indiana today, but keeping my streak alive by using Mimo to study Python.
+
+This mobile app allowed me to continue my learning, focusing on Python basics, which is a slight shift from the Object-Oriented Programming I've been doing.
+
+## Thoughts
+
+Using Mimo while traveling has been a great way to make productive use of travel time.
+
+## Hashtags
+
+\#100DaysOfCode \#Python \#Mimo
+
+<hr style="border-width: 3px;">
+
 ### Day 34: May 30, 2024
 
-# Day 33 of 100 Days of Code: Python OOP with LinkedIn Learning
+# Day 34 of 100 Days of Code: Python OOP with LinkedIn Learning
 
 ## Today's Progress
 
