@@ -1,3 +1,25 @@
+### Day 37: June 2, 2024
+
+# Day 37 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
+
+<hr style="border-width: 3px;">
+
 ### Day 36: June 1, 2024
 
 # Day 36 of 100 Days of Code: x
@@ -12,13 +34,13 @@ x
 
 ## Hashtags
 
-\#100DaysOfCode \#Python \
+\#100DaysOfCode
 
 <hr style="border-width: 3px;">
 
 ### Day 35: May 31, 2024
 
-# Day 35 of 100 Days of Code: x
+# Day 35 of 100 Days of Code: Coding on the Go with Mimo
 
 ## Today's Progress
 
