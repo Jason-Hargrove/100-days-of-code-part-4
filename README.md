@@ -1,14 +1,29 @@
 ### Day 37: June 2, 2024
 
-# Day 37 of 100 Days of Code: x
+# Day 37 of 100 Days of Code: Applying OOP to Financial Models
 
 ## Today's Progress
 
-x
+Programming challenge involved defining a class to represent stock information.
+
+Including properties like Ticker, Price, and Company. I also implemented a method to return a formatted description of the stock.
+
+```python
+class Stock:
+    def __init__(self, ticker, price, company):
+        self.ticker = ticker
+        self.price = price
+        self.company = company
+
+    def get_description(self):
+        return f"{self.ticker}: {self.company} -- ${self.price}"
+```
+
+I tested this setup with stocks like Microsoft, Google, Meta, and Amazon, ensuring the class correctly handles and describes each stock instance.
 
 ## Thoughts
 
-x
+This exercise reinforced the power and flexibility of OOP in handling real-world data structures like stock market information.
 
 ## Link to Work
 
@@ -16,7 +31,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 ## Hashtags
 
-\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
 
 <hr style="border-width: 3px;">
 
