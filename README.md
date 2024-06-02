@@ -1,3 +1,21 @@
+### Day 36: June 1, 2024
+
+# Day 36 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Hashtags
+
+\#100DaysOfCode \#Python \
+
+<hr style="border-width: 3px;">
+
 ### Day 35: May 31, 2024
 
 # Day 35 of 100 Days of Code: x
