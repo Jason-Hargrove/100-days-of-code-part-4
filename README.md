@@ -1,3 +1,25 @@
+### Day 38: June 3, 2024
+
+# Day 37 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
+
+<hr style="border-width: 3px;">
+
 ### Day 37: June 2, 2024
 
 # Day 37 of 100 Days of Code: Applying OOP to Financial Models
