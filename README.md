@@ -1,3 +1,25 @@
+### Day 39: June 4, 2024
+
+# Day 39 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
+
+<hr style="border-width: 3px;">
+
 ### Day 38: June 3, 2024
 
 # Day 38 of 100 Days of Code: Python OOP - Abstract Base Classes, Multiple Inheritance and Interfaces
