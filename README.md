@@ -1,14 +1,16 @@
 ### Day 38: June 3, 2024
 
-# Day 37 of 100 Days of Code: x
+# Day 38 of 100 Days of Code: Python OOP - Abstract Base Classes, Multiple Inheritance and Interfaces
 
 ## Today's Progress
 
-x
+Worked with abstract base classes, multiple inheritance, and interfaces.
+
+Explored how interfaces can be implemented in Python to design cleaner and more modular code.
 
 ## Thoughts
 
-x
+Abstract classes and interfaces, in particular, provide a structured way to define blueprints for classes while ensuring that derived classes follow a consistent implementation.
 
 ## Link to Work
 
