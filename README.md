@@ -18,7 +18,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 ## Hashtags
 
-\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
+\#100DaysOfCode \##Python \#ObjectOrientedProgramming
 
 <hr style="border-width: 3px;">
 
