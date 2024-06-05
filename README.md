@@ -1,14 +1,16 @@
 ### Day 40: June 5, 2024
 
-# Day 40 of 100 Days of Code: x
+# Day 40 of 100 Days of Code: Exploring Magic Methods in Python OOP
 
 ## Today's Progress
 
-x
+Studied Python's "magic" methods today as part of my ongoing study in Object-Oriented Programming.
+
+I learned about special methods, their purpose, and how to use them for customizing class behavior, particularly focusing on string representations of objects.
 
 ## Thoughts
 
-x
+Magic methods in Python, such as **str** and **repr**, are foundational for defining how objects behave with built-in Python operations.
 
 ## Link to Work
 
