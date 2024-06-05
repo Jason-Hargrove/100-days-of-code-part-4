@@ -1,14 +1,16 @@
 ### Day 39: June 4, 2024
 
-# Day 39 of 100 Days of Code: x
+# Day 39 of 100 Days of Code: Tackling Inheritance and Abstract Classes in Python
 
 ## Today's Progress
 
-x
+Completed Chapter 2 challenge and quiz on inheritance and abstract classes.
+
+The challenge involved creating a class structure to represent stocks and bonds using abstract classes to enforce certain design principles.
 
 ## Thoughts
 
-x
+This challenge was a fantastic way to deepen my understanding of OOP principles in Python, especially how to design flexible and reusable code with abstract classes.
 
 ## Link to Work
 
