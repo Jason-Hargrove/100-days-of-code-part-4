@@ -1,3 +1,27 @@
+### Day 41: June 6, 2024
+
+# Day 41 of 100 Days of Code: Magic Methods in Python OOP
+
+## Today's Progress
+
+Magic methods for equality and comparison, attribute access, and making objects callable.
+
+These methods are crucial for customizing how objects compare to each other, how their attributes are accessed and modified, and how they can be called like functions.
+
+## Thoughts
+
+Exploring these advanced features of Python's magic methods has deepened my appreciation for the language's flexibility and power.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \#Python \#ObjectOrientedProgramming
+
+<hr style="border-width: 3px;">
+
 ### Day 40: June 5, 2024
 
 # Day 40 of 100 Days of Code: Exploring Magic Methods in Python OOP
@@ -18,7 +42,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 ## Hashtags
 
-\#100DaysOfCode \##Python \#ObjectOrientedProgramming
+\#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
 <hr style="border-width: 3px;">
 
@@ -42,7 +66,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 ## Hashtags
 
-\#100DaysOfCode \##Python \#ObjectOrientedProgramming
+\#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
 <hr style="border-width: 3px;">
 
@@ -66,7 +90,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 ## Hashtags
 
-\#100DaysOfCode \##Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
+\#100DaysOfCode \#Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
 
 <hr style="border-width: 3px;">
 
