@@ -1,3 +1,25 @@
+### Day 42: June 7, 2024
+
+# Day 42 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \#Python \#ObjectOrientedProgramming
+
+<hr style="border-width: 3px;">
+
 ### Day 41: June 6, 2024
 
 # Day 41 of 100 Days of Code: Magic Methods in Python OOP
