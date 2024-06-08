@@ -1,14 +1,18 @@
 ### Day 42: June 7, 2024
 
-# Day 42 of 100 Days of Code: x
+# Day 42 of 100 Days of Code: Comparison in Python with Magic Methods
 
 ## Today's Progress
 
-x
+Chapter 3 "Magic Object Methods" coding challenge and quiz.
+
+I implemented custom comparison methods for sorting stocks and bonds based on price and yield, respectively. Using Python's magic methods, I added functionality to sort these financial instruments effectively within their classes.
+
+I successfully sorted lists of stocks and bonds, ensuring that they could be compared according to their specific financial metrics.
 
 ## Thoughts
 
-x
+This challenge was a fantastic practical application of Python's magic methods, demonstrating how they can be leveraged to tailor object behavior in a way that's both intuitive and efficient.
 
 ## Link to Work
 
