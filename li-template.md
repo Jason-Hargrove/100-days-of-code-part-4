@@ -13,6 +13,7 @@ https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/
 
 🏷️ Hashtags
 #100DaysOfCode
+#Python
 #Heroku
 #WebDevelopment
 #FullStackDeveloper
@@ -22,6 +23,5 @@ https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/
 #SoftwareEngineering
 #DevOps
 #MERN
-#Python
 #LinkedInLearning
 #Programming
