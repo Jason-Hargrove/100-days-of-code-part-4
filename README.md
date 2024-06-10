@@ -1,14 +1,18 @@
 ### Day 45: June 10, 2024
 
-# Day 45 of 100 Days of Code: x
+# Day 45 of 100 Days of Code: Mistranslatio - Incorrect Spanish Translator
 
 ## Today's Progress
 
-x
+A friend challenged me to create a React app that mistranslates Spanish.
+
+I've integrated the MyMemory Translation API into my React and Node.js application.
+
+I implemented custom logic to generate incorrect translations and ensured smooth communication between the frontend and backend. Additionally, I cleaned up unnecessary files from the project directory to streamline the structure.
 
 ## Thoughts
 
-x
+I learned the importance of robust error handling and logging when working with external APIs.
 
 ## Link to Work
 
@@ -16,7 +20,7 @@ Repo: [git@github.com:Jason-Hargrove/mistranslatio.git](git@github.com:Jason-Har
 
 ## Hashtags
 
-\#100DaysOfCode \#Python \#ObjectOrientedProgramming
+\#100DaysOfCode \#Translation \#Spanish \#Challenge \#React
 
 <hr style="border-width: 3px;">
 
