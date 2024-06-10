@@ -1,3 +1,25 @@
+### Day 45: June 10, 2024
+
+# Day 45 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [git@github.com:Jason-Hargrove/mistranslatio.git](git@github.com:Jason-Hargrove/mistranslatio.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Python \#ObjectOrientedProgramming
+
+<hr style="border-width: 3px;">
+
 ### Day 44: June 9, 2024
 
 # Day 44 of 100 Days of Code: Completing Python OOP Course
