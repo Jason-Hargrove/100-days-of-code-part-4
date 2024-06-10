@@ -1,3 +1,25 @@
+### Day 44: June 9, 2024
+
+# Day 44 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](https://github.com/Jason-Hargrove/python-object-oriented-programming)
+
+## Hashtags
+
+\#100DaysOfCode \#Python \#ObjectOrientedProgramming
+
+<hr style="border-width: 3px;">
+
 ### Day 43: June 8, 2024
 
 # Day 43 of 100 Days of Code: Python Data Classes
