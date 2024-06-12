@@ -14,7 +14,7 @@ Styling is as crucial as functionality in developing software. A well-designed i
 
 ## Link to Work
 
-Repo: [git@github.com:Jason-Hargrove/mistranslatio.git](git@github.com:Jason-Hargrove/mistranslatio.git)
+Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/Jason-Hargrove/mistranslatio.git)
 
 ## Hashtags
 
@@ -40,7 +40,7 @@ I learned the importance of robust error handling and logging when working with 
 
 ## Link to Work
 
-Repo: [git@github.com:Jason-Hargrove/mistranslatio.git](git@github.com:Jason-Hargrove/mistranslatio.git)
+Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/Jason-Hargrove/mistranslatio.git)
 
 ## Hashtags
 
