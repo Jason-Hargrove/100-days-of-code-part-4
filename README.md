@@ -1,3 +1,31 @@
+### Day 47: June 12, 2024
+
+# Day 47 of 100 Days of Code: Tackling Deployment and CSP Issues
+
+## Today's Progress
+
+Attempted to deploy my React and Node.js application, "Mistranslatio," to Heroku.
+
+The process involved several steps to ensure the correct setup and configurations for a successful deployment. I ensured the server correctly served the static files from the React build directory, and attempting to addressed Content Security Policy (CSP) issues.
+
+I encountered a few challenges, including CSP errors and a misspelled directory name, which led to serving static files incorrectly. After renaming the directory correctly, I adjusted my server.js file to properly serve the static files and set appropriate CSP headers. Despite these efforts, the deployment issues persisted, and I plan to start fresh tomorrow.
+
+![mistranslatio.jpg](./images/mistranslatio.jpg)
+
+## Thoughts
+
+Today was a reminder of the intricacies involved in deploying a full-stack application. Handling deployment issues and configuring security policies can be challenging but are essential for a robust application. Although I faced several hurdles, the experience was educational and helped me better understand the deployment process on Heroku. Tomorrow, I plan to revisit the deployment with a fresh perspective and ensure all configurations are set correctly for a successful deployment.
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/Jason-Hargrove/mistranslatio.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Translation \#Spanish \#Challenge \#React
+
+<hr style="border-width: 3px;">
+
 ### Day 46: June 11, 2024
 
 # Day 46 of 100 Days of Code: Styling "Mistranslatio"
