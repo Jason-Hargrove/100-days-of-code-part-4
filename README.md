@@ -1,19 +1,22 @@
-### Day 48: June 12, 2024
+### Day 48: June 13, 2024
 
-# Day 48 of 100 Days of Code: x
+# Day 48 of 100 Days of Code: Successfully Deploying "Mistranslatio" to Heroku
 
 ## Today's Progress
 
-x
+The app that humorously translates English text into incorrect Spanish, faced several deployment challenges.
+
+Most the issues seem related to Content Security Policy (CSP) settings and directory structure. I updated the CSP settings in server.js to include necessary directives for loading Google Fonts and connecting to external APIs. Additionally, I ensured that the project directory structure was correct, particularly addressing a misspelling in the client folder name. Finally, I successfully deployed the app, though further testing revealed some additional tweaks are still needed.
 
 ![mistranslatio.jpg](./images/mistranslatio.jpg)
 
 ## Thoughts
 
-x
+Deploying a full-stack application to Heroku was an insightful process that highlighted the importance of meticulous configuration and attention to detail. Ensuring correct CSP settings and project structure are crucial for a successful deployment. Despite the challenges, seeing the app live is rewarding, and I'm eager to polish it further. This experience reinforced the importance of iterative testing and deployment in the development workflow.
 
 ## Link to Work
 
+Check out the live application here: [https://mistranslatio-5f22cacf77e2.herokuapp.com/](https://mistranslatio-5f22cacf77e2.herokuapp.com/)
 Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/Jason-Hargrove/mistranslatio.git)
 
 ## Hashtags
