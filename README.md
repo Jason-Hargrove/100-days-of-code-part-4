@@ -1,3 +1,27 @@
+### Day 48: June 12, 2024
+
+# Day 48 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+![mistranslatio.jpg](./images/mistranslatio.jpg)
+
+## Thoughts
+
+x
+
+## Link to Work
+
+Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/Jason-Hargrove/mistranslatio.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Translation \#Spanish \#Challenge \#React \#Heroku
+
+<hr style="border-width: 3px;">
+
 ### Day 47: June 12, 2024
 
 # Day 47 of 100 Days of Code: Tackling Deployment and CSP Issues
