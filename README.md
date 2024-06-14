@@ -1,14 +1,18 @@
 ### Day 49: June 14, 2024
 
-# Day 49 of 100 Days of Code: x
+# Day 49 of 100 Days of Code: Deployment Troubleshooting and README Enhancements
 
 ## Today's Progress
 
-x
+Focused on troubleshooting and resolved deployment issues for "Mistranslatio".
+
+After ensuring the correct setup of my project directories and files, I managed to successfully deploy the app on Heroku. However, I encountered problems with the translation feature not working and content security policy (CSP) errors. I added necessary headers to handle CSP issues and updated my README file to include sections for edge cases and future improvements. Despite the challenges, the app is now live and functioning as expected.
 
 ## Thoughts
 
-x
+Deployment can be a complex and sometimes frustrating part of the development process, but it's rewarding to see the app live and accessible online. Today, I learned the importance of meticulously managing project files and configurations, especially when deploying to a platform like Heroku. Adding the new sections to the README also helped in documenting known issues and potential enhancements, making it easier for future contributors to understand the project.
+
+![mistranslatio-01.jpg](./images/mistranslatio-01.jpg)
 
 ## Links to Work
 
@@ -31,7 +35,7 @@ The app that humorously translates English text into incorrect Spanish, faced se
 
 Most the issues seem related to Content Security Policy (CSP) settings and directory structure. I updated the CSP settings in server.js to include necessary directives for loading Google Fonts and connecting to external APIs. Additionally, I ensured that the project directory structure was correct, particularly addressing a misspelling in the client folder name. Finally, I successfully deployed the app, though further testing revealed some additional tweaks are still needed.
 
-![mistranslatio.jpg](./images/mistranslatio.jpg)
+![mistranslatio-00.jpg](./images/mistranslatio-00.jpg)
 
 ## Thoughts
 
@@ -60,7 +64,7 @@ The process involved several steps to ensure the correct setup and configuration
 
 I encountered a few challenges, including CSP errors and a misspelled directory name, which led to serving static files incorrectly. After renaming the directory correctly, I adjusted my server.js file to properly serve the static files and set appropriate CSP headers. Despite these efforts, the deployment issues persisted, and I plan to start fresh tomorrow.
 
-![mistranslatio.jpg](./images/mistranslatio.jpg)
+![mistranslatio-00.jpg](./images/mistranslatio-00.jpg)
 
 ## Thoughts
 
