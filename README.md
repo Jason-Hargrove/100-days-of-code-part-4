@@ -1,3 +1,26 @@
+### Day 49: June 14, 2024
+
+# Day 49 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Links to Work
+
+Check out the live application here: [https://mistranslatio-5f22cacf77e2.herokuapp.com/](https://mistranslatio-5f22cacf77e2.herokuapp.com/)
+Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/Jason-Hargrove/mistranslatio.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Translation \#Spanish \#Challenge \#React \#Heroku
+
+<hr style="border-width: 3px;">
+
 ### Day 48: June 13, 2024
 
 # Day 48 of 100 Days of Code: Successfully Deploying "Mistranslatio" to Heroku
@@ -14,7 +37,7 @@ Most the issues seem related to Content Security Policy (CSP) settings and direc
 
 Deploying a full-stack application to Heroku was an insightful process that highlighted the importance of meticulous configuration and attention to detail. Ensuring correct CSP settings and project structure are crucial for a successful deployment. Despite the challenges, seeing the app live is rewarding, and I'm eager to polish it further. This experience reinforced the importance of iterative testing and deployment in the development workflow.
 
-## Link to Work
+## Links to Work
 
 Check out the live application here: [https://mistranslatio-5f22cacf77e2.herokuapp.com/](https://mistranslatio-5f22cacf77e2.herokuapp.com/)
 Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/Jason-Hargrove/mistranslatio.git)
