@@ -1,22 +1,20 @@
 ### Day 50: June 15, 2024
 
-# Day 50 of 100 Days of Code: x
+# Day 50 of 100 Days of Code: Embarking on Python Data Analysis
 
 ## Today's Progress
 
-x
+Starting a new course on Python Data Analysis on LinkedIn Learning.
+
+Today was all about setting up the foundation: watched the introduction, ensured my development environment was fully operational on my Mac, and began working with Jupyter Notebooks.
 
 ## Thoughts
 
-x
-
-## Links to Work
-
-Repo: []()
+Diving into data analysis with Python is exciting as it opens up a plethora of possibilities for extracting insights from data. Using Jupyter Notebooks for interactive coding sessions is proving to be an effective way to learn and visualize data dynamically.
 
 ## Hashtags
 
-\#100DaysOfCode \#Python \#DataAnalysis
+\#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning #\JupyterNotebooks
 
 <hr style="border-width: 3px;">
 
