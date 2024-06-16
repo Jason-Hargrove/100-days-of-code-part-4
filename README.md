@@ -1,3 +1,25 @@
+### Day 50: June 15, 2024
+
+# Day 50 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Links to Work
+
+Repo: []()
+
+## Hashtags
+
+\#100DaysOfCode \#Python \#DataAnalysis
+
+<hr style="border-width: 3px;">
+
 ### Day 49: June 14, 2024
 
 # Day 49 of 100 Days of Code: Deployment Troubleshooting and README Enhancements
