@@ -1,14 +1,20 @@
 ### Day 58: June 23, 2024
 
-# Day 57 of 100 Days of Code: x
+# Day 57 of 100 Days of Code: Analyzing NOAA Weather Data with Python
 
 ## Today's Progress
 
-x
+Focusing on a use case involving weather data, focusing on stations in Kentucky.
+
+Using Python libraries like pandas and matplotlib, I visualized these data points to better understand their geographical distribution.
 
 ## Thoughts
 
-x
+Working with real-world data sets like weather records offers invaluable practice in data handling and analysis. It's fascinating to see how data science can provide insights into natural phenomena and help in making informed decisions based on historical data.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
 
 ## Hashtags
 
