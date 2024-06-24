@@ -1,6 +1,28 @@
+### Day 59: June 24, 2024
+
+# Day 59 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
+
+<hr style="border-width: 3px;">
+
 ### Day 58: June 23, 2024
 
-# Day 57 of 100 Days of Code: Analyzing NOAA Weather Data with Python
+# Day 58 of 100 Days of Code: Analyzing NOAA Weather Data with Python
 
 ## Today's Progress
 
