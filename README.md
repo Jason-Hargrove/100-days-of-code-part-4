@@ -12,7 +12,7 @@ Continuing the momentum, I started and finished Chapter 6, which focused on anal
 
 ## Thoughts
 
-This course has been incredibly enriching, equipping me with robust analytical tools and techniques that are essential for any data scientist. From manipulating time series data to exploring societal trends through baby names, the practical applications of Python in data analysis are vast and varied. I’m excited to apply these skills in real-world datasets and continue developing my expertise in data science.
+This course has been incredibly enriching, equipping me with robust analytical tools and techniques that are essential for any data scientist.
 
 ## Links to Work
 
