@@ -1,3 +1,28 @@
+### Day 60: June 25, 2024
+
+# Day 60 of 100 Days of Code: Search the MET - Debugging and Deployment
+
+## Today's Progress
+
+I updated the node-sass version and rebuilt the project successfully.
+
+I encountered and resolved various build issues related to webpack and gulp, and deployed the project to Heroku. While the deployment was successful, I identified and documented a runtime error involving a 400 Bad Request and a TypeError in the frontend code.
+
+## Thoughts
+
+Today was a challenging but productive day. I successfully updated the project dependencies and resolved several build and deployment issues. Deploying to Heroku was a learning experience, and although I encountered a runtime error, I now have a clear path to debug it further. This experience reinforced the importance of thorough error checking and testing in both development and production environments.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
+App: [https://project-3-art-gallery-234e4bca97cc.herokuapp.com/](https://project-3-art-gallery-234e4bca97cc.herokuapp.com/)
+
+## Hashtags
+
+\#100DaysOfCode \#Day60 \#JavaScript \#NodeJS \#Heroku \#Deployment \#Debugging \#React \#FrontendDevelopment \#BackendDevelopment
+
+<hr style="border-width: 3px;">
+
 ### Day 59: June 24, 2024
 
 # Day 59 of 100 Days of Code: Completing Python Data Analysis Course on LinkedIn Learning
