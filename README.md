@@ -1,3 +1,26 @@
+### Day 60: June 26, 2024
+
+# Day 60 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
+App: [https://project-3-art-gallery-234e4bca97cc.herokuapp.com/](https://project-3-art-gallery-234e4bca97cc.herokuapp.com/)
+
+## Hashtags
+
+\#100DaysOfCode \#Day60 \#JavaScript \#NodeJS \#Heroku \#Deployment \#Debugging \#React \#FrontendDevelopment \#BackendDevelopment
+
+<hr style="border-width: 3px;">
+
 ### Day 60: June 25, 2024
 
 # Day 60 of 100 Days of Code: Search the MET - Debugging and Deployment
