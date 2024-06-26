@@ -1,14 +1,16 @@
 ### Day 60: June 26, 2024
 
-# Day 60 of 100 Days of Code: test
+# Day 60 of 100 Days of Code: Troubleshooting App.js and Fixing Display Issues
 
 ## Today's Progress
 
-x
+I spent today troubleshooting the App.js file of my MERN stack application.
+
+After identifying an issue where fields, images, and buttons were disappearing after a few seconds, I discovered and fixed the problem by updating the useEffect hook to handle the fetch request properly. Although I fixed the display issue, I encountered a new problem with adding ads, which I will address in my next session.
 
 ## Thoughts
 
-x
+Today was focused on debugging and refining the application's functionality. Fixing the display issue in App.js was a significant step forward, and while the ad addition feature still needs work, I'm confident I'll be able to resolve it soon.
 
 ## Links to Work
 
