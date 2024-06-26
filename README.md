@@ -14,8 +14,8 @@ Today was focused on debugging and refining the application's functionality. Fix
 
 ## Links to Work
 
-Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
-App: [https://project-3-art-gallery-234e4bca97cc.herokuapp.com/](https://project-3-art-gallery-234e4bca97cc.herokuapp.com/)
+- Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
+- App: [https://project-3-art-gallery-234e4bca97cc.herokuapp.com/](https://project-3-art-gallery-234e4bca97cc.herokuapp.com/)
 
 ## Hashtags
 
@@ -39,8 +39,8 @@ Today was a challenging but productive day. I successfully updated the project d
 
 ## Links to Work
 
-Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
-App: [https://project-3-art-gallery-234e4bca97cc.herokuapp.com/](https://project-3-art-gallery-234e4bca97cc.herokuapp.com/)
+- Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://github.com/Jason-Hargrove/python-data-analysis.git)
+- App: [https://project-3-art-gallery-234e4bca97cc.herokuapp.com/](https://project-3-art-gallery-234e4bca97cc.herokuapp.com/)
 
 ## Hashtags
 
