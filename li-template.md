@@ -1,4 +1,4 @@
-Day 61 of 100 Days of Code:
+Day 62 of 100 Days of Code:
 🔧 Today's Progress:
 🚗 Today's Progress:
 
@@ -13,15 +13,15 @@ https://github.com/Jason-Hargrove/mistranslatio.git
 
 🏷️ Hashtags
 #100DaysOfCode
-#Python
-#Heroku
+#Day62
+#Django
+#VueJS
+#Bootstrap
 #WebDevelopment
-#FullStackDeveloper
-#Deployment
-#Tech
-#Coding
-#SoftwareEngineering
-#DevOps
-#MERN
-#LinkedInLearning
-#Programming
+#JavaScript
+#Python
+#ManisesSpain
+#PaducahKY
+#ArtAndTech
+#UNESCO
+#CreativeCities

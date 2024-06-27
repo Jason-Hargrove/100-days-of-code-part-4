@@ -1,6 +1,30 @@
-### Day 60: June 26, 2024
+### Day 62: June 26, 2024
 
-# Day 60 of 100 Days of Code: Troubleshooting App.js and Fixing Display Issues
+# Day 62 of 100 Days of Code: Integrating Vue.js with Django for UNESCO-Go-Seek 🌐🎨
+
+## Today's Progress
+
+The goal is to create an app that suggests random UNESCO cities to visit.
+
+I started integrating Vue.js and Bootstrap with my Django project, UNESCO-Go-Seek today. I successfully set up a new Django app and initialized a Vue.js project within it. Installed the latest versions of Vue.js and Bootstrap, and encountered some build issues with Node.js, which I plan to resolve next. Documented all steps for future reference.
+
+## Thoughts
+
+Today was both challenging and exciting. Working with modern front-end technologies like Vue.js alongside Django is pushing my development skills to the next level. I’m really looking forward to continuing this project and seeing it come to life. The app will also be a great way to showcase my work and interests at the International Ceramics Festival in Manises, Spain, where I’ll be representing Paducah, KY, as an art representative. The journey is as rewarding as the destination, just like art and travel.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
+### Day 61: June 26, 2024
+
+# Day 61 of 100 Days of Code: Troubleshooting App.js and Fixing Display Issues
 
 ## Today's Progress
 
@@ -19,7 +43,7 @@ Today was focused on debugging and refining the application's functionality. Fix
 
 ## Hashtags
 
-\#100DaysOfCode \#Day60 \#JavaScript \#NodeJS \#Heroku \#Deployment \#Debugging \#React \#FrontendDevelopment \#BackendDevelopment
+\#100DaysOfCode \#Day61 \#JavaScript \#NodeJS \#Heroku \#Deployment \#Debugging \#React \#FrontendDevelopment \#BackendDevelopment
 
 <hr style="border-width: 3px;">
 
