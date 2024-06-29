@@ -4,13 +4,15 @@
 
 ## Today's Progress
 
-Today, I made significant strides in integrating Vue.js with Django for my UNESCO-Go-Seek project.
+Made significant strides in integrating Vue.js with Django for my UNESCO-Go-Seek project. Started a README.
 
-I set up the Django project, created a new Vue.js frontend, installed Bootstrap and BootstrapVue, and successfully built the Vue.js project. I also documented everything in a concise README.md to ensure smooth setup and future development.
+I set up the Django project, created a new Vue.js frontend, installed Bootstrap and BootstrapVue, and successfully built the Vue.js project. Also hoping taking time with the README.md will eventually ensure smooth setup, and development.
 
 ## Thoughts
 
-Combining Django's robust backend with Vue.js's dynamic frontend has been both challenging and rewarding. Writing the README.md helped clarify the setup process and reinforced my understanding of the project structure. I'm excited to see how this application will evolve as I continue integrating the frontend with the backend.
+Challenging and rewarding. Writing the README.md helped a bit of my understanding of the project structure. Then I deleted it. 😂 I do think I have a general idea now.
+
+I'm excited to see how this application will evolve as I continue integrating the frontend with the backend.
 
 ## Links to Work
 
