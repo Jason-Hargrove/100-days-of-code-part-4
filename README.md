@@ -1,4 +1,33 @@
-### Day 62: June 26, 2024
+### Day 63: June 27, 2024
+
+# Day 63 of 100 Days of Code: Research and Inspiration for UNESCO-Go-Seek 🌐🎨
+
+## Today's Progress
+
+Spent the day researching and exploring various web applications that share similar functionalities to the UNESCO-Go-Seek project but serve different purposes. The goal was to gather ideas and inspiration for designing a user-friendly interface and ensuring a seamless user experience. This research phase is crucial for understanding best practices and innovative features that can be adapted to my project.
+
+## Thoughts
+
+Taking a step back to research has been incredibly insightful. I've discovered a variety of approaches to presenting random content and user interaction patterns that I hadn't considered before. This exploration has not only given me new ideas but also reinforced the importance of thoughtful design in creating engaging web applications. The time invested in research will undoubtedly pay off as I move forward with development.
+
+## Next Steps:
+
+- Resolve the build issues with Vue.js.
+- Integrate the Vue.js frontend with the Django backend.
+- Start working on the core functionality to randomly suggest UNESCO cities.
+- Apply insights from today's research to improve the user interface and experience.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
+#### Day 62: June 26, 2024
 
 # Day 62 of 100 Days of Code: Integrating Vue.js with Django for UNESCO-Go-Seek 🌐🎨
 
