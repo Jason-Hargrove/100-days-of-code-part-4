@@ -1,6 +1,6 @@
 ### Day 64: June 29, 2024
 
-# Day 64 of 100 Days of Code: Building UNESCO-Go-Seek with Django and Vue.js
+# Day 64 of 100 Days of Code: Building App with Django and Vue
 
 ## Today's Progress
 
