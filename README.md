@@ -1,3 +1,27 @@
+### Day 64: June 29, 2024
+
+# Day 64 of 100 Days of Code: Building UNESCO-Go-Seek with Django and Vue.js
+
+## Today's Progress
+
+Today, I made significant strides in integrating Vue.js with Django for my UNESCO-Go-Seek project.
+
+I set up the Django project, created a new Vue.js frontend, installed Bootstrap and BootstrapVue, and successfully built the Vue.js project. I also documented everything in a concise README.md to ensure smooth setup and future development.
+
+## Thoughts
+
+Combining Django's robust backend with Vue.js's dynamic frontend has been both challenging and rewarding. Writing the README.md helped clarify the setup process and reinforced my understanding of the project structure. I'm excited to see how this application will evolve as I continue integrating the frontend with the backend.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
 ### Day 63: June 28, 2024
 
 # Day 63 of 100 Days of Code: Research and Inspiration for UNESCO-Go-Seek 🌐🎨
