@@ -1,4 +1,4 @@
-### Day 63: June 27, 2024
+### Day 63: June 28, 2024
 
 # Day 63 of 100 Days of Code: Research and Inspiration for UNESCO-Go-Seek 🌐🎨
 
@@ -27,7 +27,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 <hr style="border-width: 3px;">
 
-#### Day 62: June 26, 2024
+#### Day 62: June 27, 2024
 
 # Day 62 of 100 Days of Code: Integrating Vue.js with Django for UNESCO-Go-Seek 🌐🎨
 
