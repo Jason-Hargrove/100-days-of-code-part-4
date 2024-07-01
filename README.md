@@ -1,3 +1,31 @@
+### Day 65: June 30, 2024
+
+# Day 65 of 100 Days of Code: Integrating Vue.js with Django - Troubleshooting
+
+## Today's Progress
+
+Continued working on my UNESCO-Go-Seek project by integrating Vue.js with Django.
+
+Successfully built the Vue.js frontend and attempted to configure Django to serve the static files. Encountered and resolved several configuration issues, including setting up the STATIC_ROOT and troubleshooting static file paths. Although there are still some challenges with loading the static files, significant progress was made in understanding and configuring the integration.
+
+## Thoughts
+
+Today was a deep dive into the intricacies of integrating a modern frontend framework with a traditional backend. The process was challenging but educational, highlighting the importance of correctly configuring static file handling in Django.
+
+## Next Steps:
+
+Next Steps: Continue troubleshooting the static file serving issues, ensure all Vue.js assets are correctly loaded by Django, and finalize the integration to move on to deploying the project.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
 ### Day 64: June 29, 2024
 
 # Day 64 of 100 Days of Code: Building App with Django and Vue
