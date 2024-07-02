@@ -1,3 +1,25 @@
+### Day 66: June 30, 2024
+
+# Day 66 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+## Thoughts
+
+x
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
 ### Day 65: June 30, 2024
 
 # Day 65 of 100 Days of Code: Integrating Vue.js with Django - Troubleshooting
