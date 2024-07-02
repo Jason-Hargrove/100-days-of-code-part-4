@@ -1,14 +1,16 @@
 ### Day 66: June 30, 2024
 
-# Day 66 of 100 Days of Code: x
+# Day 66 of 100 Days of Code: Integrating Vue.js and Django
 
 ## Today's Progress
 
-x
+Successfully served static files and displayed the Vue.js app.
+
+Encountered and started troubleshooting issues related to endpoint configuration for retrieving random city data.
 
 ## Thoughts
 
-x
+While I managed to display the Vue.js app, configuring the backend endpoints correctly is proving to be tricky. Despite the challenges, I'm learning a lot about both Django and Vue.js.
 
 ## Links to Work
 
