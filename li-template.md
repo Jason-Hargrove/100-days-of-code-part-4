@@ -20,8 +20,11 @@ https://github.com/Jason-Hargrove/unesco_go_seek.git
 #WebDevelopment
 #JavaScript
 #Python
+#FestaCeramica24
+#Manises
 #ManisesSpain
 #PaducahKY
+#PaducahCreativeCity
 #ArtAndTech
 #UNESCO
 #CreativeCities
