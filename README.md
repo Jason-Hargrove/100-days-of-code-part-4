@@ -1,4 +1,28 @@
-### Day 66: June 30, 2024
+### Day 67: July 2, 2024
+
+# Day 67 of 100 Days of Code: Structuring the Project and Fixing Endpoints
+
+## Today's Progress
+
+Worked on structuring my UNESCO-Go-Seek project correctly and ensuring the static files are in the right place.
+
+Updated the Vue.js component to use the correct endpoint and built the Vue.js project. Verified the Django settings for serving static files. Still troubleshooting the final display of random city data in the UI.
+
+## Thoughts
+
+There's still some work to be done, but I'm making steady progress. Tomorrow I'll continue with debugging and finalizing the display of data in the UI.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
+### Day 66: July 1, 2024
 
 # Day 66 of 100 Days of Code: Integrating Vue.js and Django
 
