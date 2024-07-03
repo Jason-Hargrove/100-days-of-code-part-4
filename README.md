@@ -1,3 +1,29 @@
+### Day 68: July 3, 2024
+
+# Day 68 of 100 Days of Code: Fixing Static File Issues in Django and Vue.js Integration
+
+## Today's Progress
+
+Resolved the issue with static files not loading correctly in my UNESCO-Go-Seek project.
+
+After investigating the mismatch between the filenames in the static directory and those expected by the Django template, I updated the references in the template and ensured the correct files were being copied during the build process. The Vue.js build configuration was also adjusted to avoid filename hashing, which simplified the integration.
+
+![unesco-go-seek-00.jpg](./images/unesco-go-seek-00.jpg)
+
+## Thoughts
+
+Today was a great example of how small mismatches can lead to significant issues in web development. It was satisfying to debug and resolve the problem, and now the Vue.js frontend is properly integrated and displaying the expected content. Looking forward to adding more features to the project!
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
 ### Day 67: July 2, 2024
 
 # Day 67 of 100 Days of Code: Structuring the Project and Fixing Endpoints
@@ -423,11 +449,11 @@ Focused on troubleshooting and resolved deployment issues for "Mistranslatio".
 
 After ensuring the correct setup of my project directories and files, I managed to successfully deploy the app on Heroku. However, I encountered problems with the translation feature not working and content security policy (CSP) errors. I added necessary headers to handle CSP issues and updated my README file to include sections for edge cases and future improvements. Despite the challenges, the app is now live and functioning as expected.
 
+![mistranslatio-01.jpg](./images/mistranslatio-01.jpg)
+
 ## Thoughts
 
 Deployment can be a complex and sometimes frustrating part of the development process, but it's rewarding to see the app live and accessible online. Today, I learned the importance of meticulously managing project files and configurations, especially when deploying to a platform like Heroku. Adding the new sections to the README also helped in documenting known issues and potential enhancements, making it easier for future contributors to understand the project.
-
-![mistranslatio-01.jpg](./images/mistranslatio-01.jpg)
 
 ## Links to Work
 
