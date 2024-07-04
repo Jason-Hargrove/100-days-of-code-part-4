@@ -1,3 +1,27 @@
+### Day 69: July 3, 2024
+
+# Day 69 of 100 Days of Code: x
+
+## Today's Progress
+
+x
+
+![unesco-go-seek-00.jpg](./images/unesco-go-seek-00.jpg)
+
+## Thoughts
+
+x
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
 ### Day 68: July 3, 2024
 
 # Day 68 of 100 Days of Code: Fixing Static File Issues in Django and Vue.js Integration
