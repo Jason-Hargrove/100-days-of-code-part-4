@@ -1,16 +1,16 @@
-### Day 69: July 3, 2024
+### Day 69: July 4, 2024
 
-# Day 69 of 100 Days of Code: x
+# Day 69 of 100 Days of Code: Researching Deployment to Heroku for Django + Vue.js App
 
 ## Today's Progress
 
-x
+Spent time researching the steps necessary to deploy my Django + Vue.js application to Heroku.
 
-![unesco-go-seek-00.jpg](./images/unesco-go-seek-00.jpg)
+I reviewed the process of setting up a Procfile, configuring settings.py for Heroku, and preparing both the Django backend and Vue.js frontend for deployment. Learned about the necessary packages such as gunicorn and whitenoise, and how to handle static files properly.
 
 ## Thoughts
 
-x
+Deployment of a full-stack app with Django and Vue.js involves more configuration compared to a standard MERN stack deployment. Tomorrow, I'll dive deeper into the actual deployment steps and see my application live on Heroku.
 
 ## Links to Work
 
