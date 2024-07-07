@@ -1,14 +1,16 @@
 ### Day 71: July 6, 2024
 
-# Day 71 of 100 Days of Code: x
+# Day 71 of 100 Days of Code: Troubleshooting Heroku Deployment
 
 ## Today's Progress
 
-x
+Encountered several issues with static file handling and MIME types with my Django + Vue.js app.
+
+Rebuilt the Vue.js project and copied static files to the root directory. Ensured all necessary files were in place and verified the directory structure.
 
 ## Thoughts
 
-x
+Deployment is proving to be more complex than anticipated. Despite the challenges, I'm gaining valuable insights into static file management and configuration for a smooth deployment process.
 
 ## Links to Work
 
