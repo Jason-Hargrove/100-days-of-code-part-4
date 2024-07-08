@@ -1,30 +1,17 @@
-Day 72 of 100 Days of Code:
-🔧 Today's Progress:
-🚗 Today's Progress:
-
-🎨 Creative Side:
-
-🔧 Challenges:
+Preparation and Discovery: Day 1 - Getting Ready for Manises, Spain
+🎨 Today's Progress:
 
 💡 Thoughts:
 
 🔗 Link to Work
-https://github.com/Jason-Hargrove/unesco_go_seek.git
+http://www.jasonhargroveart.com/
 
 🏷️ Hashtags
 #100DaysOfCode
-#Day62
-#Django
-#VueJS
-#Bootstrap
-#WebDevelopment
-#JavaScript
-#Python
-#FestaCeramica24
-#Manises
+#Day73
+#ArtAndTech
 #ManisesSpain
 #PaducahKY
-#PaducahCreativeCity
-#ArtAndTech
-#UNESCO
-#CreativeCities
+#UNESCO #CreativeCities
+#TravelDiaries
+#ArtistLife

@@ -1,3 +1,25 @@
+### Day 1: July 8, 2024
+
+# Art and Journey: Day 1 - Getting Ready for Manises, Spain 🇪🇸
+
+## Today's Progress
+
+A pivot in my 100DaysOfCode journey. As an artist representative from Paducah, KY, I am gearing up for a UNESCO trip.
+
+## Thoughts
+
+Balancing coding with art has always been a passion of mine, and this trip is a perfect opportunity to explore this intersection further. I'm excited to engage with the international art community, showcase our projects, and gain new insights that I can bring back to my coding and professional work.
+
+## Links to Work
+
+Art Portfolio: [http://www.jasonhargroveart.com/](http://www.jasonhargroveart.com/)
+
+## Hashtags
+
+\#100DaysOfCode \#Day73 \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
+
+<hr style="border-width: 3px;">
+
 ### Day 72: July 7, 2024
 
 # Day 72 of 100 Days of Code: Deploying UNESCO-Go-Seek on Heroku
