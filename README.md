@@ -1,3 +1,25 @@
+### Day 72: July 7, 2024
+
+# Day 72 of 100 Days of Code: Deploying UNESCO-Go-Seek on Heroku
+
+## Today's Progress
+
+Successfully deployed my Django and Vue.js application, UNESCO-Go-Seek, on Heroku. Fixed database configuration issues, ran migrations, and loaded city data into the database. The app now correctly suggests random UNESCO cities to visit.
+
+## Thoughts
+
+Encountered and resolved several database-related errors. It was a great learning experience in handling environment variables and database settings in Django. Happy to see the app live and working! There's always room for improvement, and I look forward to enhancing it further.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/Jason-Hargrove/unesco_go_seek.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
+
+<hr style="border-width: 3px;">
+
 ### Day 71: July 6, 2024
 
 # Day 71 of 100 Days of Code: Troubleshooting Heroku Deployment
