@@ -1,3 +1,25 @@
+### Day 2: July 9, 2024
+
+# Art and Journey: Day 2 - x
+
+## Today's Progress
+
+x.
+
+## Thoughts
+
+x
+
+## Links to Work
+
+Art Portfolio: [http://www.jasonhargroveart.com/](http://www.jasonhargroveart.com/)
+
+## Hashtags
+
+\#100DaysOfCode \#Day73 \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
+
+<hr style="border-width: 3px;">
+
 ### Day 1: July 8, 2024
 
 # Art and Journey: Day 1 - Getting Ready for Manises, Spain 🇪🇸
