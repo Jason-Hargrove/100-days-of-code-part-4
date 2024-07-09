@@ -1,4 +1,4 @@
-Preparation and Discovery: Day 1 - Getting Ready for Manises, Spain
+Preparation and Discovery: Day 3 - x 🇪🇸
 🎨 Today's Progress:
 
 💡 Thoughts:

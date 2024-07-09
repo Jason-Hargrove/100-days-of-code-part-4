@@ -1,14 +1,16 @@
 ### Day 2: July 9, 2024
 
-# Art and Journey: Day 2 - x
+# Art and Journey: Day 2 - Packing and Preparations 🇪🇸
 
 ## Today's Progress
 
-x.
+As my departure to Manises, Spain, draws nearer, today was all about packing and tying up loose ends.
+
+My canvases and an assortment of custom stickers—each carrying a piece of my artistic journey—are now neatly packed and ready for the trip. Ensuring that each piece is securely stored for travel was my top priority, reflecting not just a physical preparation but also a mental alignment for the days ahead.
 
 ## Thoughts
 
-x
+Packing for an international trip always feels like I'm setting the stage for a new chapter in my art career. Each item I choose to bring along carries its significance, from the practical necessities to the pieces of art that will represent my work and hometown. The thought process behind what stays and what goes is almost as intricate as planning a new piece of artwork.
 
 ## Links to Work
 
