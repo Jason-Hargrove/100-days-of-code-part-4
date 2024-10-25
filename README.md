@@ -1,3 +1,25 @@
+### Day 73: October 24, 2024
+
+# Day 72 of 100 Days of Code: Next.js Art Explorer App
+
+## Today's Progress
+
+An interactive platform where users can explore museums, art galleries, and specific artworks worldwide using a map and a product carousel to display featured art pieces or gallery exhibits.
+
+## Thoughts
+
+Picking 100 Days back up after my trip to Spain. I want to play around with Next.js and Tailwind for a bit.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day72 \#NextJS \#Tailwind \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
 ### Day 2: July 9, 2024
 
 # Art and Journey: Day 2 - Packing and Preparations 🇪🇸
