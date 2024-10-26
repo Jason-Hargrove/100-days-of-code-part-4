@@ -1,6 +1,28 @@
+### Day 74: October 25, 2024
+
+# Day 74 of 100 Days of Code: Next.js and TailwindCSS
+
+## Today's Progress
+
+Created a responsive layout with a navigation bar and footer using TailwindCSS. Implemented mobile-friendly styling to ensure good usability across screen sizes.
+
+## Thoughts
+
+I’m learning a lot about structuring Next.js projects from scratch, especially using the new App Router. Today’s setup feels like a solid foundation, and I’m excited to bring my idea for an “Art Explorer” app to life. Next steps: integrating Google Maps for museum locations and building out more components.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day73 \#NextJS \#Tailwind \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
 ### Day 73: October 24, 2024
 
-# Day 72 of 100 Days of Code: Next.js Art Explorer App
+# Day 73 of 100 Days of Code: Next.js Art Explorer App
 
 ## Today's Progress
 
@@ -16,7 +38,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 ## Hashtags
 
-\#100DaysOfCode \#Day72 \#NextJS \#Tailwind \#ArtExplorer
+\#100DaysOfCode \#Day73 \#NextJS \#Tailwind \#ArtExplorer
 
 <hr style="border-width: 3px;">
 
@@ -40,7 +62,7 @@ Art Portfolio: [http://www.jasonhargroveart.com/](http://www.jasonhargroveart.co
 
 ## Hashtags
 
-\#100DaysOfCode \#Day73 \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
+\#100DaysOfCode \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
 
 <hr style="border-width: 3px;">
 
@@ -62,7 +84,7 @@ Art Portfolio: [http://www.jasonhargroveart.com/](http://www.jasonhargroveart.co
 
 ## Hashtags
 
-\#100DaysOfCode \#Day73 \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
+\#100DaysOfCode \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
 
 <hr style="border-width: 3px;">
 

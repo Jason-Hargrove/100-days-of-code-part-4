@@ -1,17 +1,14 @@
-Preparation and Discovery: Day 3 - x 🇪🇸
+Day 74 of 100 Days of Code: Next.js and TailwindCSS
 🎨 Today's Progress:
 
 💡 Thoughts:
 
 🔗 Link to Work
-http://www.jasonhargroveart.com/
+https://github.com/Jason-Hargrove/art-explorer.git
 
 🏷️ Hashtags
-#100DaysOfCode
-#Day73
-#ArtAndTech
-#ManisesSpain
-#PaducahKY
-#UNESCO #CreativeCities
-#TravelDiaries
-#ArtistLife
+#100DaysOfCode 
+#Day73 
+#NextJS 
+#Tailwind 
+#ArtExplorer
