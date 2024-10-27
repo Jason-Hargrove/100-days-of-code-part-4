@@ -1,3 +1,27 @@
+### Day 75: October 26, 2024
+
+# Day 75 of 100 Days of Code: Google Maps Integration and Client Components
+
+## Today's Progress
+
+Integrated Google Maps, handled client components in Next.sj, and fixed TS issues.
+
+![unesco-go-seek-00.jpg](./images/art-explorer-00.jpg)
+
+## Thoughts
+
+Today was all about troubleshooting! I gained a deeper understanding of Client vs. Server Components in Next.js and how to best use each for performance. Also got the basics of Google Maps working, and I’m excited to add markers for art locations next.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day73 \#NextJS \#TypeScript \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
 ### Day 74: October 25, 2024
 
 # Day 74 of 100 Days of Code: Next.js and TailwindCSS
