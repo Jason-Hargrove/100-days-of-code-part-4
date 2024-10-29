@@ -1,4 +1,4 @@
-Day 74 of 100 Days of Code: Next.js and TailwindCSS
+Day 76 of 100 Days of Code: Next.js and TailwindCSS
 🎨 Today's Progress:
 
 💡 Thoughts:
@@ -8,7 +8,7 @@ https://github.com/Jason-Hargrove/art-explorer.git
 
 🏷️ Hashtags
 #100DaysOfCode 
-#Day73 
+#Day76
 #NextJS 
 #Tailwind 
 #ArtExplorer

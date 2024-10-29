@@ -1,3 +1,47 @@
+### Day 77: October 28, 2024
+
+# Day 77 of 100 Days of Code: Map Markers with Info Windows
+
+## Today's Progress
+
+Added info window displaying the museum name and coordinates. Worked through TS scope issues.
+
+## Thoughts
+
+Today was about refining functionality and debugging TypeScript scoping.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day77 \#NextJS \#TypeScript \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
+### Day 76: October 27, 2024
+
+# Day 76 of 100 Days of Code: Maps Markers and TS Troubleshooting
+
+## Today's Progress
+
+Set up custom markers for museums and worked through TS issues.
+
+## Thoughts
+
+Today was a deep dive into TypeScript and Next.js Client Components. Debugging these compatibility issues taught me a lot about TypeScript custom types and API versioning. Next steps: adding info windows to markers for more interactivity.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day76 \#NextJS \#TypeScript \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
 ### Day 75: October 26, 2024
 
 # Day 75 of 100 Days of Code: Google Maps Integration and Client Components
@@ -18,7 +62,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 ## Hashtags
 
-\#100DaysOfCode \#Day73 \#NextJS \#TypeScript \#ArtExplorer
+\#100DaysOfCode \#Day75 \#NextJS \#TypeScript \#ArtExplorer
 
 <hr style="border-width: 3px;">
 
@@ -40,7 +84,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 ## Hashtags
 
-\#100DaysOfCode \#Day73 \#NextJS \#Tailwind \#ArtExplorer
+\#100DaysOfCode \#Day74 \#NextJS \#Tailwind \#ArtExplorer
 
 <hr style="border-width: 3px;">
 
