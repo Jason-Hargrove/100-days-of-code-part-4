@@ -1,3 +1,25 @@
+### Day 78: October 29, 2024
+
+# Day 78 of 100 Days of Code: Adding Icons to Google Maps
+
+## Today's Progress
+
+Added art-themed icons for map markers. Integrated the icons into each marker and configured the path.
+
+## Thoughts
+
+The icons add a great visual touch to the map, making it feel more like an interactive art exploration tool. Next, I’ll work on customizing info windows to enhance the user experience further.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day78 \#NextJS \#TypeScript \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
 ### Day 77: October 28, 2024
 
 # Day 77 of 100 Days of Code: Map Markers with Info Windows
