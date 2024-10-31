@@ -1,3 +1,25 @@
+### Day 79: October 30, 2024
+
+# Day 79 of 100 Days of Code: Image Editing and Google Maps Markers
+
+## Today's Progress
+
+Installed GIMP to edit images and successfully resized and converted a .heic image to .jpg for Google Maps markers.
+
+## Thoughts
+
+Today’s work with GIMP and image manipulation was a valuable step in customizing the project’s visuals.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day79 \#NextJS \#TypeScript \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
 ### Day 78: October 29, 2024
 
 # Day 78 of 100 Days of Code: Adding Icons to Google Maps
