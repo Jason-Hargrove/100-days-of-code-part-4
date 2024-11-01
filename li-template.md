@@ -1,5 +1,5 @@
 Day 76 of 100 Days of Code: Next.js and TailwindCSS
-🎨 Today's Progress:
+👨‍💻 Today's Progress: 
 
 💡 Thoughts:
 

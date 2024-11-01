@@ -1,3 +1,25 @@
+### Day 80: October 31, 2024
+
+# Day 80 of 100 Days of Code: Componentizing Info Windows and Styling with TailwindCSS
+
+## Today's Progress
+
+Refined my Maps markers by creating a styled component for each art location’s details.
+
+## Thoughts
+
+Using TailwindCSS with a reusable component for info windows improves both the design and maintainability of the project. GIMP has been incredibly helpful for custom image prep.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day80 \#NextJS \#TypeScript \#ArtExplorer
+
+<hr style="border-width: 3px;">
+
 ### Day 79: October 30, 2024
 
 # Day 79 of 100 Days of Code: Image Editing and Google Maps Markers
