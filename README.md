@@ -18,7 +18,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day80 \#NextJS \#TypeScript \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 79: October 30, 2024
 
