@@ -1,3 +1,27 @@
+### Day 81: November 1, 2024
+
+# Day 81 of 100 Days of Code: Added Search and Responsive Layout
+
+## Today's Progress
+
+Added a search to the map and refined the layout.
+
+Keeping the heading and map side-by-side on larger screens, while adding spacing to prevent elements from touching. Implemented responsive TailwindCSS classes to ensure the layout adapts smoothly across different screen sizes, stacking elements vertically on smaller screens for better readability.
+
+## Thoughts
+
+Responsive design is key for creating a clean and accessible user experience.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day81 \#NextJS \#TypeScript \#ArtExplorer
+
+---
+
 ### Day 80: October 31, 2024
 
 # Day 80 of 100 Days of Code: Componentizing Info Windows and Styling with TailwindCSS
@@ -40,7 +64,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day79 \#NextJS \#TypeScript \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 78: October 29, 2024
 
@@ -62,7 +86,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day78 \#NextJS \#TypeScript \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 77: October 28, 2024
 
@@ -84,7 +108,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day77 \#NextJS \#TypeScript \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 76: October 27, 2024
 
@@ -106,7 +130,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day76 \#NextJS \#TypeScript \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 75: October 26, 2024
 
@@ -130,7 +154,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day75 \#NextJS \#TypeScript \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 74: October 25, 2024
 
@@ -152,7 +176,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day74 \#NextJS \#Tailwind \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 73: October 24, 2024
 
@@ -174,7 +198,7 @@ Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Ja
 
 \#100DaysOfCode \#Day73 \#NextJS \#Tailwind \#ArtExplorer
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 2: July 9, 2024
 
@@ -198,7 +222,7 @@ Art Portfolio: [http://www.jasonhargroveart.com/](http://www.jasonhargroveart.co
 
 \#100DaysOfCode \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 1: July 8, 2024
 
@@ -220,7 +244,7 @@ Art Portfolio: [http://www.jasonhargroveart.com/](http://www.jasonhargroveart.co
 
 \#100DaysOfCode \#ArtAndTech \#ManisesSpain \#PaducahKY \#UNESCO #CreativeCities \#TravelDiaries \#ArtistLife
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 72: July 7, 2024
 
@@ -243,7 +267,7 @@ Encountered and resolved several database-related errors. It was a great learnin
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 71: July 6, 2024
 
@@ -267,7 +291,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 70: July 5, 2024
 
@@ -291,7 +315,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 69: July 4, 2024
 
@@ -315,7 +339,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 68: July 3, 2024
 
@@ -341,7 +365,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 67: July 2, 2024
 
@@ -365,7 +389,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 66: July 1, 2024
 
@@ -389,7 +413,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 65: June 30, 2024
 
@@ -417,7 +441,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 64: June 29, 2024
 
@@ -443,7 +467,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 63: June 28, 2024
 
@@ -472,7 +496,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 #### Day 62: June 27, 2024
 
@@ -496,7 +520,7 @@ Repo: [https://github.com/Jason-Hargrove/unesco_go_seek.git](https://github.com/
 
 \#100DaysOfCode \#Day62 \#Django \#VueJS \#Bootstrap \#WebDevelopment \#JavaScript \#Python \#ManisesSpain \#PaducahKY \#ArtAndTech \#UNESCO \#CreativeCities
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 61: June 26, 2024
 
@@ -521,7 +545,7 @@ Today was focused on debugging and refining the application's functionality. Fix
 
 \#100DaysOfCode \#Day61 \#JavaScript \#NodeJS \#Heroku \#Deployment \#Debugging \#React \#FrontendDevelopment \#BackendDevelopment
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 60: June 25, 2024
 
@@ -546,7 +570,7 @@ Today was a challenging but productive day. I successfully updated the project d
 
 \#100DaysOfCode \#Day60 \#JavaScript \#NodeJS \#Heroku \#Deployment \#Debugging \#React \#FrontendDevelopment \#BackendDevelopment
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 59: June 24, 2024
 
@@ -572,7 +596,7 @@ Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://githu
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 58: June 23, 2024
 
@@ -596,7 +620,7 @@ Repo: [https://github.com/Jason-Hargrove/python-data-analysis.git](https://githu
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 57: June 22, 2024
 
@@ -616,7 +640,7 @@ Working with NumPy to perform complex mathematical operations and manipulate rec
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 56: June 21, 2024
 
@@ -636,7 +660,7 @@ Understanding how to index arrays effectively is essential for optimizing data a
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 55: June 20, 2024
 
@@ -656,7 +680,7 @@ Understanding how to effectively create and manipulate arrays opens up numerous 
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 54: June 19, 2024
 
@@ -676,7 +700,7 @@ The process of implementing various methods to find anagrams was particularly in
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 53: June 18, 2024
 
@@ -696,7 +720,7 @@ Engaging with advanced containers has sharpened my skills in managing and manipu
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 52: June 17, 2024
 
@@ -716,7 +740,7 @@ Learning about dictionaries and sets has deepened my understanding of efficient 
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 51: June 16, 2024
 
@@ -736,7 +760,7 @@ Revisiting these core Python elements has reinforced how vital foundational know
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 50: June 15, 2024
 
@@ -756,7 +780,7 @@ Diving into data analysis with Python is exciting as it opens up a plethora of p
 
 \#100DaysOfCode \#Python \#DataAnalysis \#LinkedInLearning \#JupyterNotebooks
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 49: June 14, 2024
 
@@ -783,7 +807,7 @@ Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/J
 
 \#100DaysOfCode \#Translation \#Spanish \#Challenge \#React \#Heroku
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 48: June 13, 2024
 
@@ -810,7 +834,7 @@ Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/J
 
 \#100DaysOfCode \#Translation \#Spanish \#Challenge \#React \#Heroku
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 47: June 12, 2024
 
@@ -838,7 +862,7 @@ Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/J
 
 \#100DaysOfCode \#Translation \#Spanish \#Challenge \#React
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 46: June 11, 2024
 
@@ -862,7 +886,7 @@ Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/J
 
 \#100DaysOfCode \#Translation \#Spanish \#Challenge \#React
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 45: June 10, 2024
 
@@ -888,7 +912,7 @@ Repo: [https://github.com/Jason-Hargrove/mistranslatio.git](https://github.com/J
 
 \#100DaysOfCode \#Translation \#Spanish \#Challenge \#React
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 44: June 9, 2024
 
@@ -912,7 +936,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 43: June 8, 2024
 
@@ -936,7 +960,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 42: June 7, 2024
 
@@ -962,7 +986,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 41: June 6, 2024
 
@@ -986,7 +1010,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 40: June 5, 2024
 
@@ -1010,7 +1034,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 39: June 4, 2024
 
@@ -1034,7 +1058,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \#Python \#ObjectOrientedProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 38: June 3, 2024
 
@@ -1058,7 +1082,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \#Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 37: June 2, 2024
 
@@ -1095,7 +1119,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \##Python \#ObjectOrientedProgramming \#Finance \#StockMarket \#TechLearning \#SoftwareDevelopment
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 36: June 1, 2024
 
@@ -1113,7 +1137,7 @@ x
 
 \#100DaysOfCode
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 35: May 31, 2024
 
@@ -1133,7 +1157,7 @@ Using Mimo while traveling has been a great way to make productive use of travel
 
 \#100DaysOfCode \#Python \#Mimo
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 34: May 30, 2024
 
@@ -1157,7 +1181,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 33: May 29, 2024
 
@@ -1181,7 +1205,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 32: May 28, 2024
 
@@ -1201,7 +1225,7 @@ Diving into Agile and Scrum has reinforced the importance of flexible project ma
 
 \#100DaysOfCode \#Agile \#Scrum \#LinkedInLearning \#CareerDevelopment
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 31: May 27, 2024
 
@@ -1225,7 +1249,7 @@ Repo: [https://github.com/Jason-Hargrove/python-object-oriented-programming](htt
 
 \#100DaysOfCode \##Python \#ObjectOrientedProgramming \#PythonProgramming
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 30: May 26, 2024
 
@@ -1245,7 +1269,7 @@ Wrapping up the Postman tutorial has significantly boosted my skills in API test
 
 \#100DaysOfCode \#WebDevelopment \#Postman
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 29: May 25, 2024
 
@@ -1265,7 +1289,7 @@ Learning to effectively use assertions in Postman is crucial for ensuring API re
 
 \#100DaysOfCode \#WebDevelopment \#Postman
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 28: May 24, 2024
 
@@ -1283,7 +1307,7 @@ Leveraging environment variables not only makes my requests more dynamic but als
 
 \#100DaysOfCode \#WebDevelopment \#Postman
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 27: May 23, 2024
 
@@ -1303,7 +1327,7 @@ Even routine practice is crucial for mastery. Revisiting basic concepts with a f
 
 \#100DaysOfCode \#WebDevelopment \#Postman
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 26: May 22, 2024
 
@@ -1327,7 +1351,7 @@ Today mixed technical challenges with creative pursuits. While technical setups 
 
 \#100DaysOfCode \#WebDevelopment \#Postman \#Art \#GraphicDesign
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 25: May 21, 2024
 
@@ -1349,7 +1373,7 @@ Today was about blending continued deep learning study with strategic planning a
 
 \#100DaysOfCode \#WebDevelopment \#JavaScript \#FastAI \#MachineLearning \#Poastman
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 24: May 20, 2024
 
@@ -1369,7 +1393,7 @@ I'm excited about the upcoming sessions and the potential to significantly enhan
 
 \#100DaysOfCode \#WebDevelopment \#JavaScript \#CSS \#FastAI \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 23: May 19, 2024
 
@@ -1389,7 +1413,7 @@ Today's progress on debugging and refining the process was particularly enlighte
 
 \#100DaysOfCode \#WebDevelopment \#JavaScript \#CSS \#FastAI \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 22: May 18, 2024
 
@@ -1415,7 +1439,7 @@ Portfoli: [https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/](https:/
 
 \#100DaysOfCode \#WebDevelopment \#JavaScript \#CSS \#FastAI \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 21: May 17, 2024
 
@@ -1442,7 +1466,7 @@ Portfoli: [https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/](https:/
 
 \#100DaysOfCode \#Heroku \#JavaScript \#GitHub \#WebDevelopment
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 20: May 16, 2024
 
@@ -1464,7 +1488,7 @@ Portfoli: [https://jason-hargrove-portfolio-5abbf0f5084c.herokuapp.com/](https:/
 
 \#100DaysOfCode \#Heroku \#JavaScript \#GitHub \#WebDevelopment
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 19: May 15, 2024
 
@@ -1490,7 +1514,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 18: May 14, 2024
 
@@ -1538,7 +1562,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 17: May 13, 2024
 
@@ -1564,7 +1588,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 16: May 12, 2024
 
@@ -1588,7 +1612,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 15: May 11, 2024
 
@@ -1612,7 +1636,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 14: May 10, 2024
 
@@ -1636,7 +1660,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 13: May 9, 2024
 
@@ -1660,7 +1684,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 12: May 8, 2024
 
@@ -1682,7 +1706,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 # Day 11 of 100 Days of Code: Python Challenges and File Handling
 
@@ -1702,7 +1726,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 10: May 6, 2024
 
@@ -1726,7 +1750,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 9: May 5, 2024
 
@@ -1750,7 +1774,7 @@ Repo: [https://github.com/Jason-Hargrove/learning-python.git](https://github.com
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 8: May 4, 2024
 
@@ -1774,7 +1798,7 @@ Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developer
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 7: May 3, 2024
 
@@ -1796,7 +1820,7 @@ Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developer
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 6: May 2, 2024
 
@@ -1818,7 +1842,7 @@ Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developer
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 5: May 1, 2024
 
@@ -1842,7 +1866,7 @@ Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developer
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 4: Apr 30, 2024
 
@@ -1866,7 +1890,7 @@ Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developer
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 3: Apr 29, 2024
 
@@ -1894,7 +1918,7 @@ Repo: [https://github.com/Jason-Hargrove/ai-programming-for-javascript-developer
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#GitHub \#WebDevelopment \#CodingChallenge \#MachineLearning
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 2: Apr 28, 2024
 
@@ -1916,7 +1940,7 @@ The setup went smoothly. Tomorrow, I'll add my API key and begin interacting wit
 
 \#100DaysOfCode \#AIProgramming \#JavaScript \#OpenAI \#LinkedInLearning \#WebDevelopment \#CodingChallenge
 
-<hr style="border-width: 3px;">
+---
 
 ### Day 1: Apr 27, 2024
 
