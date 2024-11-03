@@ -1,3 +1,25 @@
+### Day 82: November 2, 2024
+
+# Day 82 of 100 Days of Code: Styling and Refining Info Windows
+
+## Today's Progress
+
+Adjusted the layout with responsive design considerations, including scrollable content.
+
+## Thoughts
+
+Refining the UI to handle variable content sizes was a valuable learning experience.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day82 \#NextJS \#TypeScript \#ArtExplorer
+
+---
+
 ### Day 81: November 1, 2024
 
 # Day 81 of 100 Days of Code: Added Search and Responsive Layout
