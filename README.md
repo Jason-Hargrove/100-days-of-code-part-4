@@ -1,3 +1,69 @@
+### Day 85: November 5, 2024
+
+# Day 85 of 100 Days of Code: Hero Section and Responsive Design
+ 
+## Today's Progress
+
+Enhanced the Home page by adding a hero section with responsive background images for mobile and desktop.
+
+## Thoughts
+
+Adding responsive elements and cohesive styling really elevated the Home page. Tailwind’s utility classes made it straightforward to control layout, and the hero section’s rounded corners brought the design together.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day85 \#NextJS \#TypeScript \#ArtExplorer
+
+---
+
+### Day 84: November 4, 2024
+
+# Day 84 of 100 Days of Code: Structuring the Explore and Home Pages
+ 
+## Today's Progress
+
+Successfully integrated the Map component into the Explore page to display art locations and enhance user interaction.
+
+## Thoughts
+
+Reorganizing the content to separate the main map from the Home page helps create a cleaner structure and makes navigation more intuitive.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day84 \#NextJS \#TypeScript \#ArtExplorer
+
+---
+
+### Day 83: November 3, 2024
+
+# Day 83 of 100 Days of Code: Setting Up Navigation and Page Routes
+
+## Today's Progress
+
+Created new routes for the Home, Explore, and About pages using the Next.js App Router structure.
+
+## Thoughts
+
+Switching to Next.js `<Link>` components improved the app's responsiveness and ensured faster navigation. Setting up the routes for each page was straightforward with the App Router structure.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day83 \#NextJS \#TypeScript \#ArtExplorer
+
+---
+
 ### Day 82: November 2, 2024
 
 # Day 82 of 100 Days of Code: Styling and Refining Info Windows
