@@ -1,3 +1,25 @@
+### Day 86: November 6, 2024
+
+# Day 86 of 100 Days of Code: Storybook for React - CDD
+ 
+## Today's Progress
+
+Set up Storybook to develop and test the "Task" component in isolation, using a Component-Driven Development approach with various task states.
+
+## Thoughts
+
+CDD through Storybook feels promising for creating well-structured components. Isolating each state and action in Storybook simplifies testing, especially with mocked data. Excited to see how this improves my workflow!
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/taskbox.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day86 \#Storybook \#React
+
+---
+
 ### Day 85: November 5, 2024
 
 # Day 85 of 100 Days of Code: Hero Section and Responsive Design
