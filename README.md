@@ -1,3 +1,25 @@
+### Day 87: November 7, 2024
+
+# Day 87 of 100 Days of Code: Building and Testing Components in Storybook
+ 
+## Today's Progress
+
+Updated Storybook config, created the Task component, and set up accessibility testing.
+
+## Thoughts
+
+Working through these Storybook setups and testing configurations clarified just how powerful Storybook is for component development. It allows precise control over component states, making it straightforward to focus on individual UI elements without running the entire app. The accessibility checks are particularly useful to ensure all users can interact with the UI. Moving forward, I can see how this isolated environment will enhance component reusability, maintainability, and testability.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/taskbox.git](https://github.com/Jason-Hargrove/taskbox.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day87 \#Storybook \#React
+
+---
+
 ### Day 86: November 6, 2024
 
 # Day 86 of 100 Days of Code: Storybook for React - CDD
@@ -12,7 +34,7 @@ CDD through Storybook feels promising for creating well-structured components. I
 
 ## Links to Work
 
-Repo: [https://github.com/Jason-Hargrove/taskbox.git](https://github.com/Jason-Hargrove/art-explorer.git)
+Repo: [https://github.com/Jason-Hargrove/taskbox.git](https://github.com/Jason-Hargrove/taskbox.git)
 
 ## Hashtags
 
