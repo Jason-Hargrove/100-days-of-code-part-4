@@ -1,3 +1,25 @@
+### Day 88: November 9, 2024
+
+# Day 88 of 100 Days of Code: Paint Order Typography Experiments 🎨
+ 
+## Today's Progress
+
+Built a responsive title design exploring CSS paint-order, text-stroke, and font styling. Created a "Radioactive Sticker Store" header with overlapping letters and custom stroke effects. Used clamp() for fluid typography and stroke width.
+
+## Thoughts
+
+Paint-order is a powerful but tricky property! Love how it lets you control stroke/fill layering for creative text effects. Combining it with responsive units (clamp/vw) makes for robust mobile-friendly designs. Might explore more creative typography effects tomorrow.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/paint-order.git](https://github.com/Jason-Hargrove/paint-order.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day88 \#JavaScript \#CSS \#HTML
+
+---
+
 ### Day 87: November 7, 2024
 
 # Day 87 of 100 Days of Code: Building and Testing Components in Storybook
