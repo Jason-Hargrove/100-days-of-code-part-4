@@ -1,3 +1,27 @@
+### Day 89: November 10, 2024
+
+# Day 89 of 100 Days of Code: Setting Up Deployment on Heroku
+ 
+## Today's Progress
+
+Configured the Next.js project for deployment on Heroku.
+
+Setting up path aliases, adding environment variables, and defining build instructions with a Procfile. Resolved Node.js version conflicts and successfully pushed the project, though there’s an application error to address. Despite the issue, learned about ES module configurations and how to handle path resolution in next.config.mjs for Heroku.
+
+## Thoughts
+
+Deployment challenges can be tricky, but each step offers insights into optimizing app configurations.
+
+## Links to Work
+
+Repo: [https://github.com/Jason-Hargrove/art-explorer.git](https://github.com/Jason-Hargrove/art-explorer.git)
+
+## Hashtags
+
+\#100DaysOfCode \#Day89 \#JavaScript \#CSS \#HTML
+
+---
+
 ### Day 88: November 9, 2024
 
 # Day 88 of 100 Days of Code: Paint Order Typography Experiments 🎨
